@@ -1,0 +1,991 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Blasphēmoktonia: = The blasphemer slaine with the sword of the spirit: or a plea for the god head of the Holy Ghost Wherein the deity of the spirit of God is proved in the demonstration of the spirit, and vindicated from the cavils of John Bidle. The second edition with many additions. By Matthew Pool, Master of Arts of Emmannel-Colledge in Cambridge; and pastor of the church of God at Michaels Quern in London.</title>
+            <author>Poole, Matthew, 1624-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 117 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55373</idno>
+            <idno type="STC">Wing P2826</idno>
+            <idno type="STC">ESTC R217686</idno>
+            <idno type="EEBO-CITATION">99829340</idno>
+            <idno type="PROQUEST">99829340</idno>
+            <idno type="VID">33777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1978:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Blasphēmoktonia: = The blasphemer slaine with the sword of the spirit: or a plea for the god head of the Holy Ghost Wherein the deity of the spirit of God is proved in the demonstration of the spirit, and vindicated from the cavils of John Bidle. The second edition with many additions. By Matthew Pool, Master of Arts of Emmannel-Colledge in Cambridge; and pastor of the church of God at Michaels Quern in London.</title>
+                  <author>Poole, Matthew, 1624-1679.</author>
+               </titleStmt>
+               <extent>[24], 67, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. &amp; W.L. for John Rothwell at the Fountain and Bear in Goldsmiths Row in Cheap-side,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word in title is in Greek characters.</note>
+                  <note>Caption title on p.1 reads: The deity of the Holy Ghost proved.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Biddle, John, 1615-1662 --  Controversial literature --  Early works to 1800.</term>
+               <term>Blasphemy --  Early works to 1800.</term>
+               <term>Holy Spirit --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <gap reason="duplicate" extent="1 page">
+            <desc>〈1 page duplicate〉</desc>
+         </gap>
+         <div type="title_page">
+            <pb facs="tcp:33777:1" rendition="simple:additions"/>
+            <pb facs="tcp:33777:2" rendition="simple:additions"/>
+            <pb facs="tcp:33777:2" rendition="simple:additions"/>
+            <pb facs="tcp:33777:3" rendition="simple:additions"/>
+            <pb facs="tcp:33777:3" rendition="simple:additions"/>
+            <p> ΒΛΑΣΦΗΜΟΚΤΟΝΊΑ: THE BLASPHEMER SLAINE <hi>With the</hi> SWORD of the SPIRIT: Or a PLEA for the <hi>GODHEAD</hi> OF THE HOLY GHOST.</p>
+            <p>Wherein the Deity of the <hi>Spirit of God</hi> is proved in the demonſtration of the Spirit, and vindicated from the Cavils of <hi>John Bidle.</hi>
+            </p>
+            <p>
+               <hi>The ſecond Edition with many Additions.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Matthew Pool, <hi>Maſter of Arts of</hi> Emmanuel-<hi>Colledge in</hi> Cambridge; <hi>and Paſtor of the Church of God at Michaels Quern in</hi> London.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. &amp; W. I.</hi> for <hi>John Rothwell</hi> at the Fountain and Bear in Goldſmiths Row in Cheap-ſide, 1654.</p>
+         </div>
+         <div type="to_his_flock">
+            <pb facs="tcp:33777:4"/>
+            <pb facs="tcp:33777:4"/>
+            <head>To my dearly beloved <hi>friends, the flock of God in</hi> Michaels <hi>Quern</hi> Pariſh in LONDON.</head>
+            <opener>
+               <salute>Dearly beloved in the Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was my earneſt deſire, when firſt I publiſhed this Treatiſe, for many reaſons, as far as poſſibly I could, to have the Author undiſcovered, and therefore I could not preface any Dedication to it. But notwith<g ref="char:EOLhyphen"/>ſtanding all my endevours for ſe<g ref="char:EOLhyphen"/>crecy; what I thought to conceal is commonly known, and I am lookt upon as the Author of it. As long as there was a poſſibility of priva<g ref="char:EOLhyphen"/>cy I laboured for it, ſeriouſly and ſincerly; but ſince, now is it become
+<pb facs="tcp:33777:5"/>
+publick, it would be, both a vanity and folly to endeavour any longer to ſmother it. I thank God, I am not aſhamed of that cauſe that I have undertaken, onely herein I deſire pardon of ingenuous Rea<g ref="char:EOLhyphen"/>ders, that being ſo young and raw, and confeſſedly unfurniſhed with thoſe treaſures of knowledge that are neceſſary for one that appears in Print, I ſhould ingage my ſelf in ſo weighty a cauſe, in ſo publick a manner.</p>
+            <p>And now having adventured thus farre, to whom ſhould I dedi<g ref="char:EOLhyphen"/>cate theſe firſt-fruits, but to you, to whom I am obliged both by the providence of God that hath fixed me among you, and ſet me over you, and by thoſe many favours, by which I ſtand ingaged to ſome of you.</p>
+            <p>It hath been my deſire, ſince I
+<pb facs="tcp:33777:5"/>
+have been among you, to approve my ſelf to God and to your conſci<g ref="char:EOLhyphen"/>ences, in that work that the Lord hath intruſted me with, and I can ſay in ſincerity, I have endeavou<g ref="char:EOLhyphen"/>red that you (as well as I) might be able to give up your accounts with joy in that great Day. And as I have often conſidered, and ſome<g ref="char:EOLhyphen"/>times told you; that the work of a Miniſter doth conſiſt in two things in building up his people; 1 In Knowledge, 2 In Grace: and that theſe two are like <hi>Hippocra<g ref="char:EOLhyphen"/>tes</hi> his Twins, that laugh and weep, live and die together; ſo have I really and ſincerely, though in much weakneſs, endeavoured, both that your hearts might be cleanſed from hypocriſie, and your heads from hereſie, that you might neither make ſhipwrack of faith, nor of a good conſcience, that you
+<pb facs="tcp:33777:6"/>
+might be antidoted both againſt the gangrene of erroneous do<g ref="char:EOLhyphen"/>ctrine, and the leproſie of a vain and ſinfull converſation.</p>
+            <p>God hath made us that are Mini<g ref="char:EOLhyphen"/>ſters, Shepherds, we are therefore to preſerve you (as far as we can) from thoſe grievous Wolves that come in and devoure the flock: Watchmen, we are therefore to give you timely notice of approch<g ref="char:EOLhyphen"/>ing enemies: Salt, we are therefore to ſeaſon you againſt corrupt prin<g ref="char:EOLhyphen"/>ciples and practices: Light, we are to acquaint you with the ways and works of darkneſs, that you may avoid them: Husbandmen, we muſt pluck up the weeds that hinder your growth: Leaders and Com<g ref="char:EOLhyphen"/>manders, we must go in and out before you, and fight your battels: Witneſſes of Chriſt, we muſt con<g ref="char:EOLhyphen"/>tinually bear witneſs to the cauſe
+<pb facs="tcp:33777:6"/>
+and truth of Chriſt, however de<g ref="char:EOLhyphen"/>ſpiſed and reproached.</p>
+            <p>Accordingly I have employed part of that time, which I have ſpent among you, in endeavouring to eſtabliſh you in ſome of thoſe truths, that are moſt oppoſed in our dayes. Here is another truth that I have not yet had occaſion to ſpeak of in the courſe of my Mini<g ref="char:EOLhyphen"/>niſtery, which in this Treatiſe is briefly defended. A Truth not con<g ref="char:EOLhyphen"/>cerning ſome circumſtantials in Religion, not a matter of indiffe<g ref="char:EOLhyphen"/>rencie, that may with ſafety be ei<g ref="char:EOLhyphen"/>ther maintained or oppoſed, but a Truth that concerns the very heart and ſoul of Religion; a truth that relates to the vitals of Chri<g ref="char:EOLhyphen"/>ſtianity; a Truth that concerns the Holy Ghoſt, and that in no leſs a matter then his Deity: Which however ſome bold and inſolent
+<pb facs="tcp:33777:7"/>
+perſons may contemptuoufly, and as they think, without danger ſpeak lightly of; yet our bleſſed Saviour doth ſo highly value it, that he tells us in expreſs terms though <hi>a blaſphemy againſt himſelf ſhall be forgiven, yet blaſphemy againſt the H. Ghoſt ſhall not be forgiven to men,</hi> Matth. 12. 31, 32.</p>
+            <p>A Truth, which whoſoever oppo<g ref="char:EOLhyphen"/>ſeth, oppoſeth alſo the deity of Chriſt, &amp; therefore he that is wel ground<g ref="char:EOLhyphen"/>ed in the former, will never que<g ref="char:EOLhyphen"/>ſtion the latter. This is the truth that is here aſſerted, which I pre<g ref="char:EOLhyphen"/>ſent to your ſolemne and ſerious conſideration: It is not ſufficient that you heare truths in a Pulpit, mens unfaithful memories will ſoon deceive them, it is very ex<g ref="char:EOLhyphen"/>pedient that you alſo be frequent and diligent in reading thoſe that
+<pb facs="tcp:33777:7"/>
+have most briefly, plainly, and ſo<g ref="char:EOLhyphen"/>lidly writ about them: You have one great priviledge (ô happy you, if you aid well underſtand and ſe<g ref="char:EOLhyphen"/>riouſly conſider your happineſs!) there is ſcarce any errour, but it hath been ſubſtantially encounter<g ref="char:EOLhyphen"/>ed, and fully refuted in the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> tongue. It would be your wiſ<g ref="char:EOLhyphen"/>dome to get one or two of every ſort, and to take ſome time to per<g ref="char:EOLhyphen"/>uſe them, that ſo you might the better be enabled to give a reaſon of that hope that is in you to any one that asketh it.</p>
+            <p>It may pleaſe God to ſuffer wic<g ref="char:EOLhyphen"/>ked and unreaſonable men ſo far to prevail, as you may be deprived of the Miniſtery, and be left as ſheep having no Sh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, which if once Satan and his inſtruments can ef<g ref="char:EOLhyphen"/>fect: you may expect, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the de<g ref="char:EOLhyphen"/>luge of Errours
+ſh<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> break in
+<pb facs="tcp:33777:8"/>
+upon you, with greater violence when there is no Standard to be lifted up againſt it, that thoſe grievous wolves will teare the poore flock more fiercely, when there is none to deliver them. Miniſters are living Books, and Books are dead Miniſters; and yet though dead, they ſpeak. When you cannot heare the one, you may read the other. Do not ſay, You have no time. Either you muſt finde a time to minde the ſaving of your ſouls, or elſe God will finde a time to afflict your ſouls. I may ſay of theſe heretical opinions, (what he ſaid of Miniſters, though in a far different ſenſe) they watch for your ſouls. Certainly it de<g ref="char:EOLhyphen"/>ſerves a little time to look to a mat<g ref="char:EOLhyphen"/>ter of that concernment. And how can you watch againſt your enemies if you are not furniſhed with de<g ref="char:EOLhyphen"/>fenſive weapons.</p>
+            <p>
+               <pb facs="tcp:33777:8"/>This, therefore, I do earnestly deſire, and as an Ambaſſadour of Christ and your Paſtour require at your hands, that you would make conſcience of increaſing your know ledge according to your opportuni<g ref="char:EOLhyphen"/>ties; That you would every day labour to be deeplier rooted in the faith, and abundant in the work of the Lord. And that you may ſo be, is the daily prayer of</p>
+            <closer>
+               <signed>
+                  <hi>The unworthieſt of all that call Chriſt Maſter, and your Servant for Jeſus ſake,</hi> M.P.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33777:9"/>
+            <pb facs="tcp:33777:9"/>
+            <head>Chriſtian READER;</head>
+            <p>ALL Hereſies come from Hell; the Apoſtle calls them the <hi>Do<g ref="char:EOLhyphen"/>ctrines of Devils,</hi>
+               <note place="margin">1 Tim. 4. 1, 2.</note> and the ancient <hi>Ignatius,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The inventions of<note place="margin">Ad Tra<g ref="char:EOLhyphen"/>lenſes.</note> the Devil.</p>
+            <p>All Hereſies lead to hell; S. <hi>Peter</hi> ſtiles them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">2 Pet. 2. 1.</note> 
+               <hi>Damnable Hereſies. Epiphanius, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The Gates of Hell;</hi>
+               <note place="margin">Haereſ. 74<g ref="char:punc">▪</g>
+               </note> they involve (though ſome men think otherwiſe) both the Seducers and the Seduced in everlaſting<note place="margin">Ad E<g ref="char:EOLhyphen"/>pheſ.</note> vengeance, in the judgement of <hi>Ignatius.</hi>
+            </p>
+            <p>Amongſt all Hereſies, none are more dangerous nor infectious then ſuch as aſſail the Sacred Trinity, God bleſſed for ever. Theſe are moſt dan<g ref="char:EOLhyphen"/>gerous, becauſe they raſe the whole foundation of Chriſtian Religion, and by reaſon of the blindneſs, cu<g ref="char:EOLhyphen"/>rioſity, wantonneſs, pride, &amp;c. of
+<pb facs="tcp:33777:10"/>
+mans wit, the moſt infectious.</p>
+            <p>In all Ages of the Church Satan hath beſtirred himſelf to ſowe and diſperſe theſe Hereſies. I intend not a catalogue of all (ſee this in <hi>Danae<g ref="char:EOLhyphen"/>us</hi>) but in ſtead of all, the Story of this one denying the Deity of the Holy Ghoſt in this ſhort Treatiſe confuted.</p>
+            <p>It was at firſt taught by <hi>Arrius,</hi> implicitely: after him pub<g ref="char:EOLhyphen"/>likely maintained by <hi>Ma<g ref="char:EOLhyphen"/>cedonius,</hi>
+               <note place="margin">Epiphan. <hi>Haereſ.</hi> 74. N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceph. <hi>Hiſt. lib. 9. cap.</hi> 42, 47.</note> the furious Biſhop of <hi>Conſtantinople:</hi> After him propagated far and neer by <hi>Marathonius Eleuſius,</hi> and their <hi>Aſſociates.</hi> It was cenſured and condemned in the ſecond Council at <hi>Conſtantinople,</hi> by 180 Bi<g ref="char:EOLhyphen"/>ſhops, upon this occaſion<note place="margin">Haereſ. 74.</note> met together; and confuted largely by <hi>Epiphanius;</hi> yet it lived obſcurely in after-times, as<note place="margin">Haereſ. 42.</note> is obſerved by <hi>Danaeus</hi> and <hi>Prateolus;</hi> and in the laſt Century began again to flie abroad, broached by <hi>Serve<g ref="char:EOLhyphen"/>tus,</hi>
+               <pb facs="tcp:33777:10"/>
+and diſperſed by <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cinus</hi>and his followers.</p>
+            <p>What endevours have been uſed to infect, and prevent the Infection of the <hi>Belgick</hi> Churches with this Hereſie, is diſcovered by the Learn<g ref="char:EOLhyphen"/>ed <hi>Cloppenburgh,</hi> in his <hi>Compendiolum Socinia<g ref="char:EOLhyphen"/>niſmi</hi>
+               <note place="margin">Cloppenburgh <hi>ann.</hi> 51. Hoornbec. <hi>pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſat. ad</hi> Socin. <hi>confutat. par.</hi> 1. Mareſ. <hi>Hydra</hi> Socinianiſm. <hi>Dr.</hi> Cheynel, <hi>Riſe &amp; Growth of</hi> Socin.</note> 
+               <hi>Confutati,</hi> in the Preface. What ſtickling amongſt us in theſe times of diſtraction, is moſt lamentable to re<g ref="char:EOLhyphen"/>hearſe; the whole bo<g ref="char:EOLhyphen"/>dy of <hi>Socinianiſm,</hi> that <hi>Hydra</hi> of Blaſphemies, that <hi>Racovian</hi> Catechiſm (w<hi rend="sup">ch</hi> walked onely in the dark, and in the Latine tongue in the Biſhops times) is now tranſlated into Engliſh for the more ſpeedy corruption of the people; many bold Factors for theſe Blaſ<g ref="char:EOLhyphen"/>phemies, which in thoſe times durſt not appear, do now both publickly, and from houſe to houſe diſſeminate their Hereſies without fear: amongſt
+<pb facs="tcp:33777:11"/>
+theſe is Mr. <hi>John Bidle,</hi> who both in print and private doth deny the God head of the Holy Ghoſt, and diſpute againſt it, <hi>David</hi> thought it time<note place="margin">Pſal. 119.</note> for God to work, when men made void his law; &amp; thou (<hi>Rea<g ref="char:EOLhyphen"/>der</hi>) canſt not but think it ſeaſonable for his ſervants to watch, and for thy ſelf to ſtand upon thy guard, when the enemy is ſowing tares.</p>
+            <p>Bleſs God for thoſe Watchmen who ſtand upon the Towers to give warning of thy approaching dan<g ref="char:EOLhyphen"/>ger, and take warning at the ſound of the Trumpet, that thou<note place="margin">Ezek. 3. Heb. 13.</note> mayeſt deliver thy ſoul, and thy bloud may not be upon thine own head: this will be grievous to us, and unprofitable to thee.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Fly from Ath<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſticall<g ref="char:punc">▪</g> Hereſies,</hi>
+               <note place="margin">Tpiſt. ad Trallen.</note> was the laſt counſel of dy<g ref="char:EOLhyphen"/>ing <hi>Ignatius</hi> to the <hi>Trallen<g ref="char:EOLhyphen"/>ſes;</hi> agreeable to the grave advice of <hi>Solomon, Proverbs 19. Ceaſe, my ſon,
+<pb facs="tcp:33777:11"/>
+to hear the inſtruction that counſels to erre from the words of knowledge.</hi> O that this counſel might take with thee! But we have a further requeſt to thee, Reader, <hi>Labour that thou mayeſt ſtand faſt, rooted, and ground<g ref="char:EOLhyphen"/>ed, and eſtabliſhed in the faith.</hi> In In<g ref="char:EOLhyphen"/>fectious times, it is uſual to take An<g ref="char:EOLhyphen"/>tidotes, and wear Amulets: in theſe times of ſeduction it is no leſs ne<g ref="char:EOLhyphen"/>ceſſary to arm our ſelves againſt prevailing Errours.</p>
+            <p>This Book of Mr. <hi>Bidle's</hi> is not now at firſt confuted; the Reverend and Learned Mr. <hi>Eſtwick</hi> hath ſome yeers ſince anſwered it in a Juſt Trea<g ref="char:EOLhyphen"/>tiſe; and ſince him Dr. <hi>John Clop<g ref="char:EOLhyphen"/>penburgh</hi> hath in Anſwer to it, put forth a Plea for the Deity of the Holy Ghoſt in the Latine Tongue, in the yeer 1652. This ſhort and full Manual, written by a Workman that needs not be aſhamed, is added for thy advantage. In it thou ſhalt finde the Arguments proving the Deity of the Holy Ghoſt fully aſ<g ref="char:EOLhyphen"/>ſerted,
+<pb facs="tcp:33777:12"/>
+againſt Mr. <hi>Bidle's</hi> Caviſs; the Sophiſms which Mr. <hi>Bidle</hi> makes uſe of to darken truth, and pervert thy faith clearly refuted, as <hi>Epiphanius</hi> hath it, <hi>Haereſ.</hi> 74. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to the ſtopping of the mouthes of gain<g ref="char:EOLhyphen"/>ſayers, and the ſatisfaction of the Docible. That the Spirit of Wiſ<g ref="char:EOLhyphen"/>dom may be given thee to try all things, diſcern the things that differ, and hold faſt that is good, is the Prayer,</p>
+            <closer>
+               <salute>(<hi>Reader</hi>)</salute>
+               <signed>Of thy Servants for Chriſts ſake,
+<list>
+                     <item>James Cranford.</item>
+                     <item>Arthur Jackſon.</item>
+                     <item>Thomas Manton.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Imprimatur,</p>
+               <closer>
+                  <signed>Ed. Calamy.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33777:12"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is ſcarce any Truth con<g ref="char:EOLhyphen"/>tained in the Scriptures that hath not been oppoſed by He<g ref="char:EOLhyphen"/>reticks in ſome ages of the Church; and amongſt the reſt, this Doctrine of the Bleſſed Trinity hath not been without exce<g ref="char:EOLhyphen"/>ption; nay indeed, it hath found as much re<g ref="char:EOLhyphen"/>ſiſtance as any other; partly from the igno<g ref="char:EOLhyphen"/>rance of men that could not apprehend it; partly from the pride of men that will believe no truth, but what doth fully ſuit and com<g ref="char:EOLhyphen"/>ply with their (though corrupted) reaſon. It is very obſervable, how the <hi>Antitrinitarian</hi> Devil hath transformed himſelf into ſeverall ſhapes; ſometimes telling us that there was but one Perſon, onely it was called by three ſeveral names, and ſo they made a Trinity of words, but not of perſons; thus he ſpake in the mouths of the <hi>Simonians, Montaniſts, Noëtians, &amp;c.</hi> Sometimes telling us, that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three Perſons are three Gods, and ſo they give us a Trinity of Divine Eſſences, not of Per<g ref="char:EOLhyphen"/>ſons onely; ſo he ſpake in the <hi>Trith<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itae.</hi> Sometimes telling us, that the three Perſons are onely three qualities; ſo he ſpake in the Aëtiani. Theſe H<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ticks like <hi>Samſons</hi> Fox<g ref="char:EOLhyphen"/>es, though their heads looked diverſe wayes,
+<pb facs="tcp:33777:13"/>
+yet their tails were tied together, and fire<g ref="char:EOLhyphen"/>brands in them to ſet the ſtanding Corn of the Church on fire. Particularly, the Deity of the Holy Ghoſt hath been oppoſed at ſundry times, and in divers manners: Some Here<g ref="char:EOLhyphen"/>ticks ſaying, It was onely a name; ſome ſay<g ref="char:EOLhyphen"/>ing, it was a man; many ſaying, That it was not God, but a Creature, as the <hi>Arrians, Origeniſts,</hi> and eſpe<g ref="char:EOLhyphen"/>cially<note place="margin">Danaeus de Haereſibus.</note> the <hi>Macedonians;</hi> which laſt peſtilent Errour hath been of late reviv'd, and particularly defended by <hi>Iohn Bidle,</hi> in a Pamphlet entir<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed, <hi>Twelve Arguments, &amp;c.</hi> whereby the Deity of the Holy Ghoſt (as he pretends) is clearly re<g ref="char:EOLhyphen"/>futed; wherein, although I profeſſe, as in the preſence of God, I finde nothing but common, trivial, abſurd, and fooliſh Arguments; yet I obſerve the ſpirit of the man to be extraor<g ref="char:EOLhyphen"/>dinarily lifted up, as if he had ſaid that which would puzzle all the univerſities in <hi>Europe</hi> to anſwer. He tells you in his <hi>Epiſtle,</hi> that he had waited upon, and conteſted with ſundry Learned men, and could never get a ſatisfactory anſwer: nor I doubt, everwill in his own judgement: I fear God hath gi<g ref="char:EOLhyphen"/>ven him up to a ſpirit of deluſion, to believe lies. To convince an Heretick, is but a little below a Miracle; and therefore it is not that I expect in this Treatiſe, but onely the eſta<g ref="char:EOLhyphen"/>bliſhment of thoſe that are yet free from this infection, and the reducing of them (if there
+<pb facs="tcp:33777:13"/>
+be any ſuch) who have followed this wretch<g ref="char:EOLhyphen"/>ed Apoſtate out of the ſimplicity of their hearts.</p>
+            <p>I am ſenſible, that this Treatiſe of <hi>Bidle</hi>'s is fully anſwered by learned Mr. <hi>Eſtwick,</hi> to which Mr. <hi>B.</hi> hath never yet made a reply, nor ever will be able: But there are many that are unwilling to beſtow either much pains or coſt about books of that nature, and ſo that errour doth yet ſpread, and ſome (as I am in<g ref="char:EOLhyphen"/>formed) are lately infected with it. I was therefore importuned to put forth a ſhort and plain confutation af <hi>Bidle's</hi> Treatiſe, which might require leſſe of the Readers money and patience, and ſo might ſerve as a common Antidote againſt that Peſtilential Doctrine. Which motion I did at firſt utterly reject, be<g ref="char:EOLhyphen"/>ing conſcious to my ſelf of mine own utter unfitneſſe for ſuch a work. And had I been left to my ſelf, I ſhould ſooner have put my finger in the fire, then my pen to paper upon ſuch terms. But being ſolemnly almoſt adjured by the honour of God, and good of ſouls, and being unceſſantly urged; I confeſſe, I durſt not deny, leſt I ſhould prefer mine own credit, (which I thought might be juſtly blemiſh<g ref="char:EOLhyphen"/>ed, by publiſhing my weakneſſe in Print, with a <hi>Noverint univerſi,</hi> as thouſands have done before me;) I ſay, leſt I ſhould prefer my credit to the glory of God (which was here ſo neerly concerned, and I hoped might be a lit<g ref="char:EOLhyphen"/>tle promoted by mine endeavours.) I there<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:33777:14"/>
+conſulted not with fleſh and blood, but immediately betook my ſelf to the work. And if ſuch fools as I write, learned men may thank themſelves, who ſuffer ſo many peſti<g ref="char:EOLhyphen"/>lent books to lie un-anſwered (as are daily put forth;) with what ſatisfaction to their own conſciences, I know not; but I am ſure with the great prejudice of the Church, and diſſa<g ref="char:EOLhyphen"/>tisfaction of pious ſouls. I wiſh they would ſeriouſly lay this to heart, and take heed they be not found among them that wrap their ta<g ref="char:EOLhyphen"/>lents (whether they be preaching or writing talents, all is one) in a napkin. And in this work I confeſſe I was helped by the labours of ſome that went before me, Mr. <hi>Eſtwick,</hi> Doctor <hi>Cheynell,</hi> and <hi>Cloppenburgius;</hi> though I may ſafely ſay, there are ſome things added of mine own, which (I hope) may not be altogether uſeleſſe and inconſiderable. Such as it is, here thou haſt it: read, conſider, ex<g ref="char:EOLhyphen"/>amine ſeriouſly, diligently, reverently; and the Lord open the eyes of thy minde that thou mayeſt receive this truth in the love of it. If thou art already drawn into that peſtilent er<g ref="char:EOLhyphen"/>rour, that is here confuted, by the cunning craftineſſe of thoſe ſeducers that lie in wait to deceive; thou haſt the more need to look to thy ſelf; for as thy diſtemper cannot be leſſe then mortall, (if it be an errour, as indeed it is, becauſe it ſtrikes at the very Deity of God himſelf) ſo it is almoſt incurable. And there<g ref="char:EOLhyphen"/>fore it is high time for thee to awake out of
+<pb facs="tcp:33777:14"/>
+ſleep, for now is thy damnation neerer then when thou didſt firſt Apoſtatize. <hi>It is hard for thee to kick againſt the pricks. Remem<g ref="char:EOLhyphen"/>ber therefore from whence thou art fallen, and repent.</hi> Seriouſly bethink thy ſelf, whe<g ref="char:EOLhyphen"/>ther thoſe fooliſh cavils thou pleaſeſt thy ſelf with here, are likely to bear thee out, and paſſe for currant at that great day. Beſides what is in this Treatiſe, (which will either ſa<g ref="char:EOLhyphen"/>tisfie thee, or elſe I fear one day condemn thee) conſider one thing further, (whereas your Champion cries out upon us as Idolaters) whether it be probable, that God (who hath promiſed <hi>to lead his people into all truth, to be with his Church to the end of the world)</hi> ſhould ſuffer all his people, (thoſe that did moſt ſincerely love and worſhip him, moſt firmly believe in him) to fall <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, live and die in ſuch a foul and indeed damnable ſin as Idolatry is, and that for ſo many ages to<g ref="char:EOLhyphen"/>gether. Take one Caution more; do not think to comprehend this Myſtery in thy ſhal<g ref="char:EOLhyphen"/>low underſtanding: How ſhould divine my<g ref="char:EOLhyphen"/>ſteries be depths, if a creature could fathome them? Do not make thy reaſon the rule of thy faith. So did the wiſe Grecians, the rational Romans; and that was the great cauſe why the preaching of the Croſſe was fooliſhneſſe to them. The riches of Chriſt are unſearchable; ſhall we therefore diſ-believe them? the peace of God paſſeth all underſtanding; ſhall we therefore diſpute it out of the world? For you
+<pb facs="tcp:33777:15"/>
+that are not yet tainted with this ſoul-mur<g ref="char:EOLhyphen"/>dering doctrine: 1 Bleſſe God for it. 2 Take beed, leſt you alſo fall. 3 Be wiſe unto ſobri<g ref="char:EOLhyphen"/>ety. And the Lord give you a ſpirit of diſ<g ref="char:EOLhyphen"/>cerning to diſtinguiſh between things that differ: So prayeth he,</p>
+            <closer>
+               <signed>Who paſſionately labours for thy Conviction and Converſion, or Eſtabliſhment and Edification,
+M. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33777:15"/>
+            <head>The DEITY of the <hi>HOLY GHOST</hi> PROVED.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I come to anſwer Mr. <hi>B</hi>'s. Arguments, I ſhall lay down ſome Arguments to prove the Deity of the Holy Ghoſt. I ſhall not follow his way, in contending more by number and multitude, then ſtrength and force of Arguments, in multiplying words without weight: I ſhall forbear to bring many Arguments, that might be alleadged, and that upon good grounds; and ſhall only <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull out ſome chief ones, and vindicate thoſe which <hi>B.</hi> hath cavill'd againſt. <hi>And thou bleſſed Spi<g ref="char:EOLhyphen"/>rit, the Spirit of Truth, plead thine own cauſe; ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd out Thy Light, and Thy Truth, that they may guide me in the handling of this controverſie, that Thy Divine Majeſty may be fully vindicated, Thy people ſolidly eſta<g ref="char:EOLhyphen"/>bliſh'd, and Thine enemies may be either con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ted or confounded.</hi> Amen.</p>
+            <p>
+               <pb n="2" facs="tcp:33777:16"/>Arg. 1. <hi>He whom the Scripture calls the Great and the True God, is God: But the Scripture calls the Holy Ghoſt the Great and the True God:</hi> Ergo <hi>the Holy Ghoſt is God.</hi>
+            </p>
+            <p>I make that addition in the Premiſſes, the Great and True God, becauſe it is known and confeſſed that Magiſtrates are ſaid to be <hi>gods,</hi> though they are never ſo called; but there is ſomething added by way of qualification and diminution, <hi>I have ſaid, You are gods; but you ſhall die like men, Pſal.</hi> 82. 6, 7. So, <hi>I have made thee a god to Pharaoh, Exod.</hi> 7. 1. A made god, and a god to <hi>Pharaoh.</hi>
+            </p>
+            <p>The <hi>Major</hi> will be confeſſed: All the doubt will be about the <hi>Minor:</hi> For the proof, I ſhall only urge two places of Scripture.</p>
+            <p>The firſt place is, <hi>Acts 5. v. 3. why hath Satan filled thine heart to lie unto the Holy Ghoſt,</hi> compared with the end of <hi>verſe 4. Thou haſt no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d to men, but to God:</hi> That he ſpeaks concerning the great God, is con<g ref="char:EOLhyphen"/>feſſed by the adverſary, and needs no proof. So that in the Apoſtles judgement, theſe are equivalent terms, to lie to the Holy Ghoſt, and to lie to God.</p>
+            <p>For the confirmation of this Argument (though it is in it ſelf ſo clear, that he that uns may read it; yet) I ſhall add four conſiderations.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:33777:16"/>1 They are ſaid to lie to the Holy Ghoſt, becauſe only the Holy Ghoſt knew their ſin, he only ſearched their hearts and knew their hypocriſie; and therefore, <hi>Verſe</hi> 9. they are ſaid <hi>to tempt the Spirit of the Lord,</hi> that is, to try whe<g ref="char:EOLhyphen"/>ther he could diſcover their ſin, and would p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſh it. They lied to him, whom they tempted, for in lying to him, it was, that they tempted him.</p>
+            <p n="2">2 <hi>Peters</hi> intent was to aggravate their ſin by this expreſſion of lying to the Holy Ghoſt, that it was committed in a more ſpecial and immediate manner againſt God; Now if the Holy Ghoſt were only an Angel, as our Adverſary aſſerts, it had been as great a ſin to lie to <hi>Peter,</hi> Gods extraor<g ref="char:EOLhyphen"/>dinary Meſſenger, as to lie to the Holy Ghoſt; becauſe, as <hi>B.</hi> himſelf ſaith, What is done to any Meſſenger redounds to him that ſends him; whether the Meſſenger were Angel or Apoſtle, that varies not the caſe; For though Ambaſſadors may differ in their private conditions, yet all of them do equally repreſent their Lord and Ma<g ref="char:EOLhyphen"/>ſter.</p>
+            <p n="3">3 <hi>Peter</hi> doth make a <hi>Dicho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omy</hi> here, ac<g ref="char:EOLhyphen"/>knowledging only two ſort<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of lies, a lying to <hi>men,</hi> and to <hi>God.</hi> But according to our Adverſaries opinion, here ſhould have been
+<pb n="4" facs="tcp:33777:17"/>
+a <hi>Trichotomy, Peter</hi> ſhould have ſaid, <hi>Thou haſt not lied to men,</hi> nor to the Holy Ghoſt only, <hi>but to God:</hi> But now ſeeing the Apoſtle hath made only two members of the Diviſion, <hi>Thou haſt not l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed</hi> only <hi>to men, but to God</hi> alſo: Chuſe which you will, for one of the two you muſt acknowledge, either that the Holy Ghoſt is man, or God.</p>
+            <p n="4">4 Conſider that <hi>Pet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> in the fourth verſe, doth explain what he meant by that phraſe in the third verſe: <hi>Thou haſt lied to the Ho<g ref="char:EOLhyphen"/>ly Ghoſt;</hi> this he explains thus, <hi>Thou haſt not lied to men,</hi> to a creature, <hi>but to God,</hi> to the Holy Ghoſt which is God.</p>
+            <p>By what hath been ſaid, <hi>B</hi>'s firſt Excepti<g ref="char:EOLhyphen"/>on falls to the ground; which is this, <hi>That a man may lie to God, and yet lie only to his meſſenger, becauſe what is done to Gods meſ<g ref="char:EOLhyphen"/>ſenger, is done to God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is true, that a ſin committed a<g ref="char:EOLhyphen"/>gainſt Gods meſſenger, is committed againſt God; but withall <hi>Peter</hi> doth here intimate, that this was not only committed againſt God in that common and general reſpect (in which indeed all ſins and all lies are committed againſt God) but that it was in a ſpecial, immediate, and extraordinary manner committed againſt God, that is, a<g ref="char:EOLhyphen"/>gainſt the H. Ghoſt, as he before expreſſed it.</p>
+            <p>But this Exception he himſelf diſtruſts,
+<pb n="5" facs="tcp:33777:17"/>
+and therefore he flies to another, and that is, he findes fault with the Tranſlation, and tels us, that the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> being joyned with an Accuſative Caſe, doth ſignifie the ſame with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> that is, to belie and counterfeit, and ſo the words muſt be rendred, Why didſt thou be<g ref="char:EOLhyphen"/>lie or counterfeit the Holy Ghoſt? But nei<g ref="char:EOLhyphen"/>ther will this relieve him, for (although it might be inſtanced that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with an Accuſative Caſe ſignifies to lie, and though the fourth Verſe doth interpret the third, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> being there but with a Dative, and ſo neceſſarily ſignifying to lie, yet) if his Expoſition were true, the force of the Argument is not at all abated; ſtill it holds though in other terms, Thou haſt in counterfeiting the Holy Ghoſt, not counter<g ref="char:EOLhyphen"/>feited men, but God: Or in counterfeiting the Holy Ghoſt, thou haſt not lied to men, but to God. I might add, that it may be rendred thus, as <hi>B.</hi> confeſſeth, and <hi>Streſo</hi> with others render it; <hi>Why hath Satan filled thine heart to deceive the Holy Ghoſt?</hi> Why haſt thou been perſwaded by him that the Holy Ghoſt might be deceived? as if he did not underſtand thy thoughts and ſe<g ref="char:EOLhyphen"/>cret practices, as if thou couldſt put a cheat upon the Holy Ghoſt, and make him be<g ref="char:EOLhyphen"/>lieve
+<pb n="6" facs="tcp:33777:18"/>
+thou art as good a Chriſtian as the beſt. However to endeavour to deceive the the Holy Ghoſt, and to lie to the Holy Ghoſt, are phraſes of the ſame ſignification.</p>
+            <p>But there is yet another Objection, that ſome of our weak Brethren make (which I ſuppoſe is a part of <hi>B</hi>'s <hi>Cabal</hi>) for he is the great <hi>Homer,</hi> whoſe vomit the inferiour Poets his Proſelytes do lick up. It is this, <hi>Exod. 16. v. 7. Moſes</hi> and <hi>Aaron</hi> ſaid, <hi>What are we that ye murmur againſt us?</hi> And <hi>Verſe</hi> 8. it is ſaid, <hi>Your murmurings are not againſt us, but againſt the Lord.</hi> Hence ſay our Ad<g ref="char:EOLhyphen"/>verſaries, it will follow according to your reaſoning, that <hi>Moſes</hi> was God.</p>
+            <p>I confeſs, it is beyond my Logick to frame an Argument out of it. And it is obſervable, <hi>B.</hi> their Schoolmaſter was aſhamed to men<g ref="char:EOLhyphen"/>tion it, yet becauſe I ſee they pride them<g ref="char:EOLhyphen"/>ſelves much in it, leſt they ſhould be wiſe in their own conceit, I ſhall anſwer it.</p>
+            <p>That text proves the quite contrary, that <hi>Moſes</hi> is not God, becauſe he ſo fully ſepa<g ref="char:EOLhyphen"/>rates &amp; diſtinguiſheth himſelf from God: e<g ref="char:EOLhyphen"/>ven as it follows out of <hi>Act.</hi> 5. that <hi>Peter was not God,</hi> becauſe he ſaith, <hi>Thou haſt not lied to us, but to God.</hi> And (obſerve it) <hi>Peter</hi> and <hi>Moſes</hi> are Parallels, not <hi>Moſes</hi> and the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, as they abſurdly fancy; for them it ſhould have been ſaid, <hi>Thou haſt not liest
+<pb n="7" facs="tcp:33777:18"/>
+to the Holy Ghoſt, but to God.</hi> If you would make that place parallel with this, you muſt firſt ſuppoſe <hi>Moſes</hi> to ſpeak thus, <hi>Why mur<g ref="char:EOLhyphen"/>mur you againſt the Holy Ghoſt, or holy Spi<g ref="char:EOLhyphen"/>rit?</hi> and then to add, <hi>your murmurings are not againſt us, but againſt the Lord.</hi> And if ſo, not onely the ſeeming fallacy vaniſheth, but it will be a ſtrong argument to confirm this inſtance in <hi>Acts</hi> 5.</p>
+            <p>Take another inſtance. Suppoſe <hi>Davids</hi> Ambaſſadours had ſaid to <hi>Hanun,</hi> when he was abuſing them, 2 <hi>Sam. 10. 4. Why do you abuſe our Lord and Maſter?</hi> And preſently after, <hi>This injury is not done to us, but to the King of Iſrael.</hi> Every vulgar eye would ſee two things. 1 That thoſe Ambaſſadours were not the King of <hi>Iſrael.</hi> 2 That the King of <hi>Iſrael</hi> was their Lord and Maſter: So it is in this caſe, as any one may eaſily apply it.</p>
+            <p>Another place to the ſame purpoſe we have, 1 <hi>Cor. 6. 19, 20. What, know you not that your body is the Temple of the Holy Ghoſt?—Therefore glorifie God in your body.</hi> The A<g ref="char:EOLhyphen"/>poſtles Argument is this: <hi>He, whoſe temple you are, ought to be glorified, ſerved, &amp;c. But you are the temples of the Holy Ghoſt:</hi> Therefore <hi>he is to be glorified;</hi> or in the A<g ref="char:EOLhyphen"/>poſtles words, <hi>Therefore glorifie God.</hi> What a miſerable Argument were this? If the
+<pb n="8" facs="tcp:33777:19"/>
+Holy Ghoſt were not God: It were in plain Engliſh to argue thus, You are the temples of, you are conſecrated to, an Angel, there<g ref="char:EOLhyphen"/>fore glorifie God. For the illuſtration of this Argument, compare it with a parallel place, 2 <hi>Cor. 6. 16.—You are the temples of the li<g ref="char:EOLhyphen"/>ving God, as God hath ſaid, I will dwell in them.</hi> We are temples of God in one place; of the Holy Ghoſt in another. If this will not ſatisfie (as that will ſatisfie a blinde minde and a perverſe ſpirit?) It's proper to God to have a temple, as it is proper to him to be worſhipped; eſpecially for ſuch a creature as man to be a temple to, to whom can this belong, but to the Creator of man? The Adverſary of the Holy Ghoſt talkes much of reaſon and wiſdome, &amp;c. It were to be wiſhed that he would make a little uſe of it here. Well, what ſaith he to this clear place? He is reſolved to ſay ſomething, <hi>ne nihil dixiſſe videatur.</hi>
+            </p>
+            <p>1 He ſaith, <hi>Indeed it would follow, the Argument would hold, if it could be proved that our body is ſo the temple of the Holy Ghoſt, as to be his by intereſt, and dedicated to his honour.</hi>
+            </p>
+            <p>Well ſaid; but who ever did underſtand any thing elſe? or how can any thing elſe be underſtood, eſpecially by him that pre<g ref="char:EOLhyphen"/>tends ſo much underſtanding? What is it for
+<pb n="9" facs="tcp:33777:19"/>
+a temple to be crected to one, but for his ho<g ref="char:EOLhyphen"/>nour, worſhip, and ſervice? was ever tem<g ref="char:EOLhyphen"/>ple duly conſecrated for other ends?</p>
+            <p>2 He ſaith, <hi>That God is here diſtinguiſhed from the Spirit.</hi>
+            </p>
+            <p>And did not <hi>B.</hi> know that we allow a di<g ref="char:EOLhyphen"/>ſtinction between the Perſons, though not in the Eſſence of the Sacred Trinity: Alſo that we diſtinguiſh between the divine na<g ref="char:EOLhyphen"/>ture, and a divine perſon. But this will more fitly and fully be anſwered under his ſecond Argument. I might mention 2 <hi>Cor. 3. 17. The Lord is that Spirit, and where the Spirit of the Lord is, there is liberly;</hi> and many o<g ref="char:EOLhyphen"/>ther places: but I ſtudy brevity.</p>
+            <p>Arg. 2. <hi>He to whom Religious worſhip is duly and truly exhibited, is God: But Religi<g ref="char:EOLhyphen"/>ous Worſhip is duly and truly given to the Holy Ghoſt:</hi> Therefore <hi>the Holy Ghoſt is God.</hi>
+            </p>
+            <p>For the <hi>Maior,</hi> one would think a few words would ſuffice to ſatisfie a man that cals himſelf a <hi>Proteſtant.</hi> But when once men relinquiſh principles, they reſt no where<g ref="char:punc">▪</g> And ſo <hi>B.</hi> laies down t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ertion, that the Holy Ghoſt is the intermediate object of worſhip, and ſo may be worſhipped. But, 1 Worſhip is an incommunic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble prop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty. God may aſſoon appoint that a cre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſhall be Omnipotent (which is a contradi<g ref="char:EOLhyphen"/>ction) as that a creature ſhall be worſhipped
+<pb n="10" facs="tcp:33777:20"/>
+(I mean with Religious worſhip, for a civil I worſhip or reſpect we confeſs is due to many men, and to Angels.) 2 It is quite contrary to expreſſe<g ref="char:punc">▪</g> Scripture, <hi>Deut.</hi> 6. compared with <hi>Matth. 4. Thou ſhalt worſhip the Lord thy God, and him onely ſhalt thou ſerve. Paul</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the worſhip<g ref="char:EOLhyphen"/>ing of Angels, an errour, <hi>Coloſſ.</hi> 2. 18. So <hi>Revel.</hi> 22. 8, 9. obſerve, <hi>Worſhip not me, I am thy fellow-ſervant;</hi> now ſo all the Angels are <hi>Heb. 1. 14. Are they not all Miniſtring ſpirits?</hi> If then the Holy Ghoſt be an Angel or Mi<g ref="char:EOLhyphen"/>niſtring ſpirit (as <hi>B.</hi> ſaith) he is not to be worſhipped. Again, <hi>worſhip God,</hi> let him have all thy worſhip; what can be more clear or pregnant? So you have the <hi>Major</hi> confirmed.</p>
+            <p>But the <hi>Minor</hi> is principally to be proved. And I ſhall prove it.</p>
+            <p>1 By <hi>Iſai. 6. 1. I ſaw the Lord ſitting up<g ref="char:EOLhyphen"/>on his throne;</hi> This Lord was worſhipped by the Seraphims, <hi>ver.</hi> 3. they cried, <hi>Holy, holy, holy, is the Lord of Hoſts:</hi> This Lord ſends a meſſage by the Prophet, <hi>verſ. 9, 10. Go ye, and tell this people, &amp;c.</hi> Now go along with me to <hi>Act.</hi> 28. 25. 26, 27. where you have the very ſame meſſage, &amp; <hi>Paul</hi> brings it in thus, <hi>Well ſpake the Holy Ghoſt by Iſaiah the Prophet; Paul</hi> ſaith, the Holy Ghoſt ſpake, and in the ſixth of <hi>Iſaiah,</hi> The Lord
+<pb n="11" facs="tcp:33777:20"/>
+ſpake; nor can it be ſaid, that the Lord ſpake by the Holy Ghoſt, as being one of thoſe Angels; and that the ſame action may be attributed to ſeverall perſons; as God is ſaid to ſave men, and <hi>Paul</hi> is ſaid to ſave men. For though that is a truth, yet here it cannot be ſo underſtood; (as if the Holy Ghoſt were Gods Inſtrument in deli<g ref="char:EOLhyphen"/>vering this meſſage, as <hi>Paul</hi> was in the ſa<g ref="char:EOLhyphen"/>ving of ſouls,) for he that ſpake immedi<g ref="char:EOLhyphen"/>ately, is evidently diſtinguiſhed from the Angels. <hi>Verſ.</hi> 6, 7. you read, one of the <hi>Sera<g ref="char:EOLhyphen"/>phims flew, and touched the lips of the Pro<g ref="char:EOLhyphen"/>phet;</hi> then <hi>verſ.</hi> 8. he paſſeth from the An<g ref="char:EOLhyphen"/>gels, and tells you, <hi>he heard the voice of the Lord.</hi> The Lord that was upon his throne, <hi>verſ.</hi> 1. that was worſhipped, <hi>verſ.</hi> 2. If it be yet ſaid, There is a difference in the text<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for in the one, the Lord ſpeaketh theſe things to <hi>Iſaiah, i. e.</hi> in a viſion; in the other it is, that the holy Spirit ſpake them by <hi>Iſaiah</hi> to the Fathers. I anſwer, that alters not the caſe; for the Scripture informs us, that it was the ſame Authour that ſpake to the Pro<g ref="char:EOLhyphen"/>phets, and by the Prophets to the people. It was God <hi>that ſpake unto the Fathers by the Prophets, Heb.</hi> 1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. which is parallel to this place, <hi>The Holy Ghoſt ſpake by Iſaiah to the Fathers.</hi> The meaning of it is onely this, that the Holy Ghoſt ſent this meſſage by
+<pb n="12" facs="tcp:33777:21"/>
+               <hi>Iſaiah</hi> to the Fathers. Now he that ſent that meſſage was God immediately, as we have proved.</p>
+            <p>2 That worſhip is due to the Holy Ghoſt, will appear from <hi>Pſal.</hi> 95. 8. It is ſaid, <hi>verſ. 6. O come, let us worſhip and how down, let us kneel before the Lord our Maker, Verſ. 7.—If you will hear his voice,</hi> ver. 8. <hi>Harden not your hearts.</hi>
+            </p>
+            <p>But you will ſay, How doth it appear, that the Holy Ghoſt is here intended. I an<g ref="char:EOLhyphen"/>ſwer, by comparing this place with <hi>Heb. 3. 7, 8, 9. wherefore, as the Holy Ghoſt ſaith, To day if you will hear his voice, &amp;c.</hi> How did the Holy Ghoſt ſay it? By the mouth of <hi>Da<g ref="char:EOLhyphen"/>vid.</hi> Whoſpake by the mouth of <hi>David?</hi> Why, God, <hi>Heb.</hi> 1. 1. And obſerve it, Saint <hi>Paul,</hi> or whoever was the Authour of that Epiſtle to the Hebrews, brings in the Holy Ghoſt ſpeaking thus of himſelf, <hi>Your fa<g ref="char:EOLhyphen"/>thers tempted me, and proved me, and ſaw my works fourty years:</hi> and ſo, <hi>Verſ. 11. I ſware they ſhall not enter into my reſt:</hi> Who was it whom they tempted? <hi>They tempted the moſt High God,</hi> Pſal. 78. 18. Who was it whoſe works they ſaw fourty years? Who can do thoſe marvellous works, but God? They are called <hi>Gods marvellous works,</hi> Pſal. 105. 5. Who was it that ſware? it was the Lord, <hi>Numb. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10, 11. The Lord ſware,
+<pb n="13" facs="tcp:33777:21"/>
+ſaying—None of them ſhall ſee the Land;</hi> The word in the Original is <hi>Jehovah,</hi> a name peculiar to God: and never given to any Angel. And that it was the Lord him<g ref="char:EOLhyphen"/>ſelf that ſware immediately, is beyond all contradiction, eſpecially, if this place be compared with <hi>Numbers</hi> 14. And yet here all theſe things are attributed to the Holy Ghoſt.</p>
+            <p>3 Swearing is a part of worſhip, and we ought to ſwear by none bur God. Now the Apoſtle ſwears by the Holy Ghoſt, <hi>Rom. 9. 1.—My conſcience bearing me witneſs in the Holy Ghoſt.</hi> Swearing is nothing elſe but a calling God to witneſs; and as God alone doth ſearch the heart, he alone is able to judge the heart, whether he that ſwears<g ref="char:punc">▪</g> ſwears in<g ref="char:punc">▪</g>truth: So he only is to be ſworn by.</p>
+            <p>4 This appears from <hi>Revel. 1. 4, 5. Grace b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o you, and peace from him which is, and was, and is to come, and from the ſeven ſpirits which are before his throne, and from Jeſus Chriſt, &amp;c.</hi> You ſee Saint <hi>John</hi> prays to all the Perſons in the Trinity, amongſt the reſt the ſeven ſpirits. The Spirit of God is called the ſeven ſpirits, becauſe of its manifold gifts and operations: Seven is a note of perfection, and ſeven ſpirits in re<g ref="char:EOLhyphen"/>lation to the ſeven Churches: The ſeven Churches were as liberally provided for, as
+<pb n="14" facs="tcp:33777:22"/>
+if they had had ſeven ſpirits: Theſe ſeven ſpirits cannot be meant of Angels: for 1 theſe ſeven ſpirits are put before Chriſt, whereas the Angels are far below him, <hi>Heb.</hi> 1. 2 The good Angels would never accept of Prayer or Worſhip, <hi>Revel.</hi> 22. 8, 9. 3 Prayers are not to be directed to any crea<g ref="char:EOLhyphen"/>ture, to any Angel, for we are to pray to none but thoſe that know our hearts, <hi>Rom.</hi> 8. 27. We muſt pray to none but him that is the object of our faith. <hi>Rom.</hi> 10. 14. God hath commanded us onely to call upon himſelf. <hi>Pſal. 50. 15. Call upon me,</hi> not upon an An<g ref="char:EOLhyphen"/>gel, <hi>in the day of trouble.</hi> Chriſt bids us pray only to <hi>Our Father,</hi> And much more might be ſaid, but I am aſhamed to ſee that we ſhould need arguments to diſpute down ſuch rotten Popiſh Tenents out of thoſe that profeſs Proteſtancie. From all theſe it cleer<g ref="char:EOLhyphen"/>ly follows, that theſe ſeven ſpirits cannot be underſtood to be created Angels. 4. Nor are the Angels the fountains of grace and peace: The ſeven ſpirits here prayed to, are ſo.</p>
+            <p>If it be ſaid, though they are not the fountains, yet they are inſtruments. I Anſ. 1. The inſtruments of grace muſt not be pray<g ref="char:EOLhyphen"/>ed to. Miniſters are Gods inſtruments in the working of grace, yet we muſt not pray to them. 2 The Scripture never in the
+<pb n="15" facs="tcp:33777:22"/>
+leaſt hints that Angels are Gods inſtruments in working of grace. And if it were true (as it is moſt falſe) that the Holy Ghoſt were an Angel, yet will it not follow becauſe one Angel is ſaid to have ſome cauſality in the working of grace, therefore 7 have; rather becauſe it is attributed onely to one, the reſt are excluded. 3 If Angels are inſtruments then either moral or natural; not moral, for that conſiſts in perſwaſion, &amp;c. Angels do not perſwade, &amp;c. nor natural, for grace be<g ref="char:EOLhyphen"/>ing created muſt needs be immediately pro<g ref="char:EOLhyphen"/>duced by God; and beſides, <hi>B.</hi> and all the <hi>Socinians</hi> are ſo far from allowing ſuch a Phyſical influence of Angels upon the will, &amp;c. that they deny it to God himſelf, and tell us he can onely perſwade the heart, but not work phyſically upon it.</p>
+            <p>The beſt of creatures are in the condition of thoſe wiſe Virgins, that have oil only for their own uſe. If it be ſaid, Here the ſeven ſpirits are put before Chriſt, whereas Chriſt being the ſecond Perſon ſhould be put be<g ref="char:EOLhyphen"/>fore the Spirit. I anſwer: 1 Nothing can be gathered from this order: Sometimes the Son is mentioned before the Father, 2 <hi>Cor.</hi> 13. 14. The reaſon is, though there be a prio<g ref="char:EOLhyphen"/>rity of order among the Perſons of the bleſſed Trinity, yet there is no precedencie in dignity. 2 The Spirit of God is ſupe<g ref="char:EOLhyphen"/>riour
+<pb n="16" facs="tcp:33777:23"/>
+to Chriſt as Mediatour, and ſo he is ſpoken of here, as is evident.</p>
+            <p>Arg. 3. <hi>He in whoſe name Baptiſme is to be adminiſtred, is God: But Baptiſme is to be adminiſtred in the Name of the Holy Ghoſt:</hi> Therefore <hi>the Holy Ghoſt is God.</hi>
+            </p>
+            <p>For the <hi>Minor,</hi> that cannot be denied, it is expreſs Scripture, <hi>Matth.</hi> 28. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9.</p>
+            <p>The <hi>Major</hi> will eaſily be proved. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> If you conſider what it is to be baptized into ones name: it is to be baptized into ones worſhip, faith and do <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne; and further to be baptized by the authority, or at the ap<g ref="char:EOLhyphen"/>pointment af one. 2 If you conſider what Baptiſme is: it is a Seal of the Covenant of Grace. Now in whoſe name is Baptiſme to be adminiſtred, but in his, who is able to ſeal to us Gods part of the Covenant<g ref="char:punc">▪</g> and to whom we owe the performance of our part? To whom doth it belong to appoint Sacraments, but to God alone? 3 If you conſider how much <hi>Paul</hi> dreaded the thoughts of it, that any man ſhould ſay, He was <hi>baptized in the name of Paul, 1 Cor.</hi> 1. 13, 14, 15. And no reaſon can be given, why, if it was lawful to baptize in the name of a<g ref="char:EOLhyphen"/>ny ſervant or Miniſter, it were not as lawful to baptize in the name of <hi>Paul,</hi> as in the name of any Angel. 4 If you conſider, that, <hi>Epheſ. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. One Lord, one Faith, one
+<pb n="15" facs="tcp:33777:23"/>
+Baptiſme;</hi> where it is not obſcurely implied, that Baptiſme is to be in the name of none but the Lord, and alſo that theſe three men<g ref="char:EOLhyphen"/>tioned in Baptiſm, are but one, <hi>one Lord.</hi>
+            </p>
+            <p>But the <hi>Theomachiſt</hi> objects, <hi>The Jews are ſaid to be baptized into</hi> Moſes, 1 <hi>Cor.</hi> 10. 2.</p>
+            <p>I anſwer: 1 There is difference between theſe phraſes, being baptized into one, and in his name. Certainly, there was as much reaſon why the <hi>Corinthians</hi> might be bapti<g ref="char:EOLhyphen"/>zed in the name of <hi>Paul,</hi> as the <hi>Iſraelites</hi> in the name of <hi>Moſes:</hi> And therefore as <hi>Paul</hi> abhorred the thoughts of it, that any ſhould be baptized in his name; ſo doubtleſs <hi>Moſes</hi> would not have arrogated it to himſelf, nor <hi>Paul</hi> have given it to <hi>Moſes.</hi>
+            </p>
+            <p>2 <hi>Moſes</hi> is taken ſeveral ways: To omit other ſenſes, ſometimes it is taken for the Law and worſhip of God, delivered by the hand of <hi>Moſes, Luke 16. 31. If they heare not</hi> Moſes <hi>and the Prophets;</hi> Why <hi>Moſes?</hi> where was he? And <hi>the Prophets do they live for ever?</hi> It was only the Word of God, written by <hi>Moſes</hi> and the Prophets, <hi>Acts 21. 21. Thou teacheſt all the Jews to forſake Moſes:</hi> ſo the meaning of it may be only this: They were baptized or initiated into the Law and worſhip of God delivered by <hi>Moſes;</hi> now, what is this to the purpoſe? Or,</p>
+            <p>
+               <pb n="18" facs="tcp:33777:24"/>3 The Prepoſition <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be put for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it is in other places, <hi>Acts 7. 35. The Law was given, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, into the diſpoſitions of Angels,</hi> for <hi>by the diſ<g ref="char:EOLhyphen"/>poſitions of Angels,</hi> according to <hi>Gal. 3. 19. It was ordained by Angels.</hi>
+            </p>
+            <p>Whereas <hi>B.</hi> ſaith, <hi>We are baptized into the guidance of the Spirit, into the confeſſion and obedience of it, it being the chief inſtru<g ref="char:EOLhyphen"/>ment whereby God guides, governs, ſancti<g ref="char:EOLhyphen"/>fies the Church.</hi>
+            </p>
+            <p>Alas, whither will a wandring creature rove? We uſe to judge the Papiſts ſufficient<g ref="char:EOLhyphen"/>ly abſurd (and I doubt not but <hi>B.</hi> will join with us in it) for making a viſible head of the Church diſtinct from Chriſt. Now <hi>B.</hi> makes an inviſible head the Vicar of God and Chriſt, and that one of thoſe Angels, that are ſo far from being heads of the Church, that they are <hi>Miniſtring ſpirits to wait upon the heirs of ſalvation;</hi> for ſo <hi>all the Angels are, Heb.</hi> 1. 14. And obſerve it is one argument <hi>Paul</hi> there brings to prove Chriſt to be higher then all the Angels, be<g ref="char:EOLhyphen"/>cauſe he is the head and governour of the Church, <hi>Verſe</hi> 8. where as the Angels are but his Miniſters, <hi>Verſe</hi> 7. and 14. ſtrongly im<g ref="char:EOLhyphen"/>plying that the ſame perſon cannot be both a miniſtring Spirit and head of the Church.
+<pb n="19" facs="tcp:33777:24"/>
+Again, It is wholly againſt the analogy of faith, and indeed that common ſenſe and reaſon that <hi>B.</hi> ſo much cries up, that one of Gods ſervants ſhould be joint commiſſioner with him in the appointment or honour of his ordinances; that was the very reaſon why <hi>Paul</hi> would not endure the thoughts of it, as we ſaw even now. But indeed the ve<g ref="char:EOLhyphen"/>ry naming of this far fetcht fancy, is enough to confute it.</p>
+            <p>Arg. 4. <hi>He to whom the Properties of God are communicated, muſt needs be God: But the Properties of God are communicated to the Holy Ghoſt:</hi> Therefore <hi>the Holy Ghoſt is God.</hi>
+            </p>
+            <p>For the <hi>Major,</hi> it is unqueſtionable. The <hi>Minor</hi> I prove by particulars, I ſhall in<g ref="char:EOLhyphen"/>ſtance only two. 1 The <hi>Holy Ghoſt</hi> is <hi>Om<g ref="char:EOLhyphen"/>niſcient.</hi> 2 He is <hi>Omnipreſent.</hi>
+            </p>
+            <p>1 He is <hi>Omniſcient, 1 Cor. 2. 10. The Spi<g ref="char:EOLhyphen"/>rit ſearcheth all things, yea, even the deep things of God:</hi> The <hi>very wayes of God are ſaid to be unſearchable,</hi> Rom. 11. 33. <hi>and his judgements paſt finding out;</hi> that is, by any creature: and yet the Spirit ſearcheth even the deep, ſecret things of God. It is ridicu<g ref="char:EOLhyphen"/>lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that <hi>B.</hi> replies, that this <hi>Omniſcience</hi> will not prove the <hi>Holy Ghoſt</hi> to be God, be<g ref="char:EOLhyphen"/>cauſe, if he have it, he hath it not origi<g ref="char:EOLhyphen"/>nally and from himſelf, but communicated
+<pb n="20" facs="tcp:33777:25"/>
+from God. For it is impoſſible (as all that underſtand any thing in Philoſophy know) that God ſhould make a creature <hi>Omniſci<g ref="char:EOLhyphen"/>ent,</hi> or a creature that could ſearch his deep things. No finite being can poſſibly ſearch or know the depths of an infinite being. And the Argument is confirmed by the rea<g ref="char:EOLhyphen"/>ſon added, <hi>Even as the ſpirit of man:</hi> So that as the ſpirit of man is in man, ſo the Spirit of God is in God, and ſo is God; for whatſoever is in God is God. It matters not that that is not expreſſed in the text, that the Spirit of God is in God, for it is neceſſa<g ref="char:EOLhyphen"/>rily implied, otherwiſe the Apoſtles reaſon were invalid; and it might be replied, <hi>Paul,</hi> your inſtance is not to purpoſe; for the ſpirit of a man is in him, and ſo may know his depths; but, the Spirit of God is not in him, and therefore may very well be ignorant of it. The Son of man himſelf, as he was man, and every other creature was igno<g ref="char:EOLhyphen"/>rant of the day of judgement; but the Spirit of God knew it; for that <hi>ſearcheth even the deep things of God:</hi> it knew far greater myſteries then that, much more did it know that. If it be ſaid, It ſearches them, that intimates, that it was ignorant of them; as in a ſearch we look for ſome<g ref="char:EOLhyphen"/>thing we want. I anſwer; even God him<g ref="char:EOLhyphen"/>ſelf is ſaid to ſearch, <hi>I ſearch the heart,
+<pb n="21" facs="tcp:33777:25"/>
+Jer.</hi> 17. 10. God, and ſo the Spirit are ſaid to ſearch, not in regard of thein for<g ref="char:EOLhyphen"/>mer ignorance, but becauſe their knowledge is an intimate and piercing knowledge.</p>
+            <p>2 The Spirit of God is <hi>Omnipreſent, Pſal. 139. 7. whither ſhall I go from thy Spirit? &amp;c.</hi> The place is clear and full, and will admit of no anſwer: The Spirit is extended as far as the preſence of God; and therefore the Spirit is every where. And it is worthy our obſervation, how the Propher inſtances to prove the <hi>Omnipreſence</hi> of Gods Spirit, <hi>Verſe 8. If I aſcend into Heaven, thou art there?</hi> whereby it is fully implied, that God and the Spirit have but one eſſence, otherwiſe he could not argue from the preſence of the one to the preſence of the other. But further to confirm it, I lay down two Concluſions.</p>
+            <p>1 There is one Spirit that dwels in all the people of God whereſoever they live: <hi>Epheſ. 2. 18. Through Chriſt both they that are afar off, and they that are near, have acceſs by one Spirit unto the Lord;</hi> Epheſ. 4. 4. <hi>One body, one Spirit.</hi>
+            </p>
+            <p>2 The Spirit dwels in all the Saints: <hi>Their very bodies are the temples of the Holy Ghoſt:</hi> as is expreſly aſſerted, 1 <hi>Cor.</hi> 6. 19. And whereas <hi>B.</hi> is forced to th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhift, that when the Spirit is ſaid to be or dwell in us, it
+<pb n="22" facs="tcp:33777:26"/>
+is to be underſtood of the gifts of the Spirit (there in forſaking his great Maſter <hi>Crellius,</hi> meerly to avoid the dint of this argument.) This is falſe, for the Spirit that is ſaid to dwell in Believers, is contradiſtinguiſhed from his gifts, <hi>John 14. 5, 16.—He will give you another Comforter, that he may abide with you for ever.—H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dwelleth with you, and ſhall be in you.</hi> Then go to <hi>Verſe 26. He ſhall teach you, &amp;c.</hi> Here are the effects of the Spirit dwelling in them, which you ſee are cleerly diſtinguiſhed from his eſ<g ref="char:EOLhyphen"/>ſence, <hi>Rom.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.—The love of God is ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d abroad, &amp;c.</hi> (th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re is the eff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of the Spi<g ref="char:EOLhyphen"/>rit) <hi>by the Holy Ghoſt which is given to us;</hi> (there is the Spirit it ſelf.) So, <hi>Rom.</hi> 8. 15. If it be ſaid, The in-dwelling of the Spirit is the priviledge of Saints, but by its eſſence it is in all men.</p>
+            <p>
+               <hi>Anſw.</hi> Therefore that is not all (though it be one thing) that is required to make up this in-dwelling (for ſo he is preſent not onely in all men, but in all beaſts, all ſtones, all things, in whom yet no ſober man will ſay he dwels.) But it is further re<g ref="char:EOLhyphen"/>quired that he be there not onely by natu<g ref="char:EOLhyphen"/>ral neceſſity, but voluntary conſent; not onely by an eſſential preſence, but alſo by his gracious preſence, by his gracious com<g ref="char:EOLhyphen"/>munications. And thus he is onely in his
+<pb n="23" facs="tcp:33777:26"/>
+people. Well, what anſwers <hi>B.</hi> to this? <hi>That if the Holy Ghoſt be Omnipreſent, then Satan is Omnipreſent, becauſe he is where-e<g ref="char:EOLhyphen"/>ver the Word is preach<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, Mark</hi> 4. And this anſwer he delivers with as muchconfidence, as if he had made a knot that no man nor Angel could untie; which makes me adore the wiſdome of God, that hath ſo far be<g ref="char:EOLhyphen"/>ſotted him, as that he pl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ſo much con<g ref="char:EOLhyphen"/>fidence in that, which any man that hath but a dram of ſound reaſon in him, will ac<g ref="char:EOLhyphen"/>knowledge to be the very weakeſt paſſage in all his Book, though it is all weak enough: I confeſs, I fear ſometimes (in this eſpecial<g ref="char:EOLhyphen"/>ly) he went againſt the light of his own conſcience. The anſwer in a word is this: There is but one Holy Ghoſt, which is Om<g ref="char:EOLhyphen"/>nipreſent, but there are abundance of evil ſpirits, <hi>Mark</hi> 5. 2, 8. a legion was in one man: obſerve, it is called in the ſingular number an unclean ſpirit, and yet there was a legion; a legion among the <hi>Romanes</hi> ordinarily conteined above ſix thouſand.</p>
+            <p>Arg. 5. <hi>He that dictated, or was the Au<g ref="char:EOLhyphen"/>thour of the Scripture, is God: But the Ho<g ref="char:EOLhyphen"/>ly Ghoſt was Author of the Scripture:</hi> Er<g ref="char:EOLhyphen"/>go, <hi>The Holy Ghoſt is God.</hi>
+            </p>
+            <p>For the <hi>Major</hi> I prove it:</p>
+            <p>1 Becauſe the Scripture attributes that word that was ſpoken and written by Pro<g ref="char:EOLhyphen"/>phets
+<pb n="24" facs="tcp:33777:27"/>
+or Apoſtles, unto God: <hi>Heb. 1. 1. God ſpake in times paſt by the Prophets.</hi> Here is the principal cauſe, God; the inſtrumental cauſe, the <hi>Prophets.</hi> To one of theſe the Holy Ghoſt muſt be referred, <hi>Luke</hi> 1. 7<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And ſo, 1 <hi>Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ. 2. 13. Paul</hi> commends the <hi>Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſalonians</hi> for <hi>receiving his word, not as the word of man, but, as it is indeed, the Word of God.</hi> Hence all the Scripture is ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of divine inſpira<g ref="char:EOLhyphen"/>tion,</hi> 2 Tim. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 16. or inſpired by God; But ſo it could not be, if it were inſpired by any creature, whether Angel or man: and in<g ref="char:EOLhyphen"/>deed it cannot be otherwiſe, but that God ſhould be the inſpirer of it, becauſe the Scripture cannot be founded upon the au<g ref="char:EOLhyphen"/>thority of a meer creature, for then it would not be infallible, nor would our faith be a divine faith. Let us ſuppoſe that the Holy Ghoſt were an Angel, as <hi>B.</hi> affirmes: I ſay, we could not believe him with a di<g ref="char:EOLhyphen"/>vine faith, nor look upon his Word as abſo<g ref="char:EOLhyphen"/>lutely infallible; which if I miſtake not, is fully proved from Gal. 1. 8. <hi>Though we, or an Angel from Heaven, ſhould preach any other Goſpel unto you, then that which we have preached, let him be accurſed:</hi> Where evident it is, the Apoſtle puts himſelf and Angels both into the ſame rank in that re<g ref="char:EOLhyphen"/>ſpect, and ſuppoſeth that neither of then
+<pb n="25" facs="tcp:33777:27"/>
+were ſimply in fallible, and that we could not ſafely rely upon either of them with a divine faith. But now we may ſafely rely upon the Word and authority<g ref="char:punc">▪</g> of the Holy Ghoſt; for that is called a fure Word, yea, more ſure then a voice from Heaven, as you may ſee, 2 <hi>Pet.</hi> 1. 19. and therefore ſo ſure, becauſe it was ſpoken by the H. Ghoſt, <hi>V<g ref="char:punc">▪</g>.</hi> 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>For the <hi>Minor;</hi> it is proved, 1 By that place fore-mentioned, <hi>Acts</hi> 28. 25. <hi>The H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ghoſt ſpake by</hi> I ſai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. 2 By 2<g ref="char:punc">▪</g> 
+               <hi>Pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. 21. Holy men of God ſpake as they were moved by the Holy Ghoſt:</hi> Where the Deity of the Holy Ghoſt is not obſcurely proved; for he tels us, <hi>Verſe 20. Scripture is not of private interpretation;</hi> that is, it is not to be inter<g ref="char:EOLhyphen"/>preted according<g ref="char:punc">▪</g> to mens private pre-con<g ref="char:EOLhyphen"/>ceived opinions, but according to the minde of the Holy Ghoſt, who was the Arthour of it. A parallel place you have<g ref="char:punc">▪</g> 
+               <hi>H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 9. 8. The Holy Ghoſt this ſignifying, &amp;c.</hi> where the minde of the Holy Ghoſt is made the genuine ſenſe of the<g ref="char:punc">▪</g> Scripture<g ref="char:punc">▪</g> now Scrip<g ref="char:EOLhyphen"/>ture<g ref="char:punc">▪</g> is to be interpreted<g ref="char:punc">▪</g> according<g ref="char:punc">▪</g> to the minde of none<g ref="char:punc">▪</g> but the Authour of it<g ref="char:punc">▪</g> Ma<g ref="char:EOLhyphen"/>ny other places might be added, but I do not deſire to multiply places.</p>
+            <p>Whereas <hi>B.</hi> ſaith, the H. Ghoſt is<g ref="char:punc">▪</g> an <hi>An<g ref="char:EOLhyphen"/>gel;</hi> that cannot be; for the Holy<g ref="char:punc">▪</g> Ghoſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> you<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Authour of the Scripture<g ref="char:punc">▪</g> and
+<pb n="26" facs="tcp:33777:28"/>
+doth fully underſtand all Scripture-myſte<g ref="char:EOLhyphen"/>ries, but now the Angels are ignorant of them; they knew not the day of judge<g ref="char:EOLhyphen"/>ment, they are ignorant in great pair of Goſpel-myſteries, 1 <hi>Pet.</hi> 1. 12. The Apoſtles <hi>preached the Goſpel, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, with, or by the Holy Ghoſt,—which things the An<g ref="char:EOLhyphen"/>gels deſire to look <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> Obſerve 1 The An<g ref="char:EOLhyphen"/>gels are <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aly <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtinguiſhed from the Holy Ghoſt. 2 The Holy Ghoſt is the <hi>Dictator</hi> of Goſpel-myſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries, the Angels are Stu<g ref="char:EOLhyphen"/>dents, learners in them.</p>
+            <p>Arg. 6. <hi>He who is <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in natu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and eſſence with the Father, is God: But the Holy Ghoſt<g ref="char:punc">▪</g> is one with the Father:</hi> Therefore <hi>the Holy Ghoſt is God.</hi>
+            </p>
+            <p>The <hi>Major</hi> will not be denied. The <hi>Mi<g ref="char:EOLhyphen"/>nor</hi> is proved from 1 <hi>John 5. 7. There are three that bear record in Heaven, the Father, the word, and the Spirit, and theſe are one.</hi> Conſider, 1 If the Spirit were an Angel, there were three thouſand witneſſes in Hea<g ref="char:EOLhyphen"/>ven. 2 Again, there is a clear variation of the phraſe in the next Verſe: there it is, <hi>they agree in one,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; but here it is not, <hi>they agree in one,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>they are one;</hi> it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not the perſonal number <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Neutral, to note, that though there is in the Trinity <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;</hi>
+               <pb n="27" facs="tcp:33777:28"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a perſon and a perſon, yet there is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a thing and a thing; though there are three Perſons, yet there is but one nature, but one Eſſence: Had the H. G. bin an Angel, <hi>John</hi> had committed a wilful and groſs offence in varying the phraſe, where<g ref="char:EOLhyphen"/>by juſt cauſe of ſuſpition was given, to think that he was one with God, not only by conſent, (for ſo the Water, Spi<g ref="char:EOLhyphen"/>rit, and Bloud are one, they conſent in their teſtimony) but alſo in Eſſence. 3 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook to <hi>Verſe 9. If we receive the witneſs of men, the witneſs of God is greater:</hi> He takes no<g ref="char:EOLhyphen"/>tice only of two Witneſſes, the witneſs of God, and the witneſs of men. The witneſs of the Holy Ghoſt is not the witneſs of men; nay the contrary is moſt clearly im<g ref="char:EOLhyphen"/>plied, that it is the witneſs of God.</p>
+            <p>But this place is no better then its com<g ref="char:EOLhyphen"/>panions, and therefore <hi>B.</hi> offers violence to it.</p>
+            <p>1 He ſaith, <hi>This phraſe is never taken to ſignifie one<g ref="char:punc">▪</g> in <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but always one in con<g ref="char:EOLhyphen"/>ſent.</hi>
+            </p>
+            <p>I anſwer, This is falſe; the contrary is evident from <hi>John 10. 29<g ref="char:punc">▪</g> I and my Father are one:</hi> Had Chriſt meant only one in con<g ref="char:EOLhyphen"/>ſent, the <hi>Jews</hi> would never have been ready to ſtone him<g ref="char:punc">▪</g> Again, he gives this as a rea<g ref="char:EOLhyphen"/>ſon why none could pluck hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſheep<g ref="char:punc">▪</g> out of
+<pb n="28" facs="tcp:33777:29"/>
+his hand, becauſe he had one and the ſame power, and ſo the ſame Eſſence with God. For if he had only been one in conſent with the Father, one might aſſoon have pluckt his ſheep out of his hand, as out of the hand of any of his Diſciples, for they alſo were one in conſent with God. But here lies the ſorce of the argument, <hi>My Father is greater then all,</hi> and therefore <hi>none can pluck them, out of his hand.</hi> And I am as great as the Father, for <hi>I and he are one,</hi> 
+               <g ref="char:punc">▪</g>and there<g ref="char:EOLhyphen"/>fore it will be as hard a work to pluck them out of mine hand. And it is obſervable when the <hi>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws</hi> charge him with making himſelf God, he doth not flie to <hi>B</hi>'s refuge, to ſay he meant onely one in conſent (which if true, had been the faireſt and beſt way) but he ar<g ref="char:EOLhyphen"/>gues from their own principles, that they al<g ref="char:EOLhyphen"/>low Magiſtrates to be gods, and therefore he may be call'd God, becauſe lie hath a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tority from God (as Magiſtrates have) &amp; was in a more <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mi<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt way ſanctified by God, and ſent into the World, by the way, holding forth that he had another nature and being, and was a perſon before he was ſont into the World (how could nothing be ſanctified &amp; ſent into the World?) and therefore had not onely the humane n<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> which he recei<g ref="char:EOLhyphen"/>ved from the Virgin, after he was ſent into the world) but alſo a divine nature, by which
+<pb n="29" facs="tcp:33777:29"/>
+he was God: But <hi>B.</hi> faith, <hi>That it is contrary to common<g ref="char:punc">▪</g> ſenſe, that three ſhould be <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> Thus it fares with men, when they will make ſenſe and reaſon the Judge of Scripture<g ref="char:punc">▪</g> con<g ref="char:EOLhyphen"/>troverſies. Hath <hi>B.</hi> never read, that <hi>the na<g ref="char:EOLhyphen"/>turalman receiveth not the things of God? 1 Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4<g ref="char:punc">▪</g> that when <hi>Pe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r</hi> ſaid, <hi>Chriſt was the Son of the living God,</hi> Chriſt told him, <hi>Fl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh and bloud hath not revealed this to<g ref="char:punc">▪</g> thee, Matth.</hi> 16. that <hi>The carnal minde is en<g ref="char:EOLhyphen"/>mity againſt God, Rom.</hi> 8. 7. The truth is, not<g ref="char:punc">▪</g> only common ſenſe cannot reach theſe my<g ref="char:EOLhyphen"/>ſteries<g ref="char:punc">▪</g> But a man muſt have more then com<g ref="char:EOLhyphen"/>mon faith to ſubject his reaſon to them: not that reaſon may not clearly diſcern this my<g ref="char:EOLhyphen"/>ſtery in the Scripture, but that it cannot in<g ref="char:EOLhyphen"/>vent o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fathom it; not but that the<g ref="char:punc">▪</g> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is clear from the Scripture, that there is a Trinity<g ref="char:punc">▪</g> but that reaſon cannot finde out the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> how can theſe things be? All men are <hi>Socinians</hi> by nature, they will be<g ref="char:EOLhyphen"/>lieve God and the Word of God no farther then they can ſee reaſon.</p>
+            <p>But <hi>B.</hi> adds, <hi>the C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lut, Bible hath this place, otherwiſe,</hi> I anſwer<g ref="char:punc">▪</g> What then<g ref="char:punc">▪</g> It muſt be here as it is in<g ref="char:punc">▪</g> many other caſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the ſome nature, that muſt be over-ruled by the conſent of other Copies. But <hi>B.</hi> goes on, &amp; tells u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that <hi>this place is not to be found in many Copies.</hi> I anſwer, It is certain that an<g ref="char:EOLhyphen"/>cient<g ref="char:punc">▪</g>
+               <pb n="30" facs="tcp:33777:30"/>
+Hereticks have offered violence to many Scriptures, that did moſt cleerly con<g ref="char:EOLhyphen"/>fute them, as might be inſtanced in many o<g ref="char:EOLhyphen"/>ther places, and yet the providence of God hath always countermined their deſignes by keeping ſome<g ref="char:punc">▪</g> Copies pure, when others were corrupted by Hereticks; and ſome per<g ref="char:EOLhyphen"/>fect, when others were defective; and for this particular, it is certain, it was extant in the Greek Copy before ever your fore-father<g ref="char:punc">▪</g> 
+               <hi>Macedonius</hi> broached that Hereſie that now you have revived. And if in ſome Copies<g ref="char:punc">▪</g> it<g ref="char:punc">▪</g> be wanting, we may<g ref="char:punc">▪</g> thank thoſe<g ref="char:punc">▪</g> ancient<g ref="char:punc">▪</g> Hereticks, in whoſe ſteps you tread, for ta<g ref="char:EOLhyphen"/>king it away. Certtain it is, that <hi>Cyprian</hi> cited this place, (who flouriſhed about 250 years after Chriſt) his words (as I finde them cited by <hi>Vedelius<g ref="char:punc">▪</g>
+               </hi>) are theſe; <hi>Dicit Dominus, Ego<g ref="char:punc">▪</g> &amp; Pater unum ſumus. Et iterum de Patre &amp; Filio, &amp; Spiritu Sancto ſcriptum eſt? Et tres unum ſunt, &amp;c.</hi> Saint <hi>Hierome</hi> alſo cites it (as our adverſaries acknowledge) and divers others. And if it be wanting in ſome other Copies, let it be conſidered that it was the complaint of divers Ancients, that the old Hereticks did corrupt and deprave the Scriptures in ſeveral places that were moſt pregnant againſt them. And the <hi>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>titri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>tarians</hi> were as guilty in this as any. <hi>Socra<g ref="char:EOLhyphen"/>tes</hi> complained that thoſe that were againſt
+<pb n="31" facs="tcp:33777:30"/>
+the Deity of Chriſt, blotted out thoſe places<g ref="char:punc">▪</g> that proved his Godhead, and in particu<g ref="char:EOLhyphen"/>lar ſome places out of this firſt Epiſtle of <hi>John, lib. 7. c.</hi> 32. An other names two old Hereticks, that made this their buſineſs to alter and corrupt the Scriptures. The truth is, it is rather a wonder that any Scripture is preſerved from infection, then that any place is corrupted. Indeed, the fraud of He<g ref="char:EOLhyphen"/>reticks about this place is very diſcernable, they fumbled ſo unhandſomely about it, that ſome of them left out one word of this Verſe, and ſome another, and ſome all; as any one that would further be ſatisfied, may ſufficiently inform himſelf out of <hi>Vedelius,</hi> in a diſcourſe upon this place. But that it was there Originally, and that it ought to be there, will evidently appear, if you conſider, 1 The end of the ſixth Verſe, which doth neceſſarily require that that ſhould follow, for it is given as a reaſon, why the Spirit is truth, becauſe there are three, &amp;c. that is, it is all one with the God of Truth, and with the Son, who is called Truth; and ſo this place is parallel to <hi>John 16. 13. He will<g ref="char:punc">▪</g> guide you into all truth, for he ſhall not ſpeak of himſelf, but from the Father;</hi> that is, he ſhall ſpeak nothing but that wherein the Father and he agrees. 2 From the ninth <hi>Verſe<g ref="char:punc">▪</g> If we believe the witneſs of men, the
+<pb n="32" facs="tcp:33777:31"/>
+witneſs of God is greater, for this is the wit<g ref="char:EOLhyphen"/>neſs of God, which he hath teſtified of his Son:</hi> Now, I beſeech you, where is this wit<g ref="char:EOLhyphen"/>neſs of God here hinted and pointed at, if not in the ſeventh Verſe? Howſoever if there were not ſuch a place as this in the Scrip<g ref="char:EOLhyphen"/>ture, there have been ſeveral other places alledged beyond all exception.</p>
+            <p>Arg. 7. <hi>He to whom thoſe actions are a<g ref="char:EOLhyphen"/>ſcribed that are proper to God, is God: But thoſe actions which are proper to God, are a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cribed to the H. Ghoſt:</hi> Ergo, <hi>the H. Ghoſt is God.</hi>
+            </p>
+            <p>For the <hi>Major,</hi> it will readily be acknow<g ref="char:EOLhyphen"/>ledged. The <hi>Minor</hi> is proved in particulars<g ref="char:punc">▪</g>
+            </p>
+            <p n="1">1 In <hi>Creation:</hi> The H. Ghoſt creates, <hi>Job 33. 4. The Spirit of God made me.</hi> Nor can it be ſaid, God made him by the Spirit as an inſtrument; for inſtrumental cauſes in crea<g ref="char:EOLhyphen"/>tion are ridiculous, and rejected by all men that underſtand any thing in Philoſophy. And therefore <hi>B.</hi> betrays his ignorance in ſaying, that the Spirit was Gods inſtrument in creating things. For, 1 It implies a contradiction; for every inſtrument muſt work in ſome ſubject: and therefore pre<g ref="char:EOLhyphen"/>ſuppoſeth a ſubject: but Creation doth not preſuppoſe a ſubject, but make it. 2 E<g ref="char:EOLhyphen"/>very inſtrument requires ſome time for its work: But Creation was done in an inſtant,
+<pb n="33" facs="tcp:33777:31"/>
+and that by God himſelf, as <hi>Geneſ.</hi> 1. doth expreſly inform us, <hi>He ſaid, Let there be light, &amp;c. B.</hi> ſpeaks as if he had never read <hi>Geneſis.</hi> And therefore it is a moſt illiterate expoſition that <hi>B.</hi> gives of that place, <hi>Job 35. 10. where is God my Maker? (Heb. Ma<g ref="char:EOLhyphen"/>kers)</hi> which he is forced to confeſs: argues that Creation was the work of ſeveral per<g ref="char:EOLhyphen"/>ſons, but the one (forſooth) moſt learnedly and profoundly he makes the inſtrumental cauſe of that Creation, which I dare ſay, all the Univerſities in <hi>Europe</hi> would hiſſe at. <hi>Luke</hi> 1. 31<g ref="char:punc">▪</g> the Holy Ghoſt created the body of Chriſt, which was neither convenient nor poſſible for a creature to do. He that ſpake by the mouth of <hi>David,</hi> made both heaven and earth, <hi>Acts</hi> 4. 24. and who that we read <hi>Acts 1. 16. The Holy Ghoſt ſpake by the mouth of David:</hi> To paſſe by that known and clear place, <hi>Geneſ. 1. 2. The Spirit moved upon the face of the waters;</hi> and many others.</p>
+            <p n="2">2 The Spirit works <hi>Miracles<g ref="char:punc">▪</g>
+               </hi> Miracles are actions above nature; and none can do acts above nature, but he that is above nature. Chriſt proved himſelf to be God by working miracles, <hi>Matth. 9. 5. That you may know the Son of man hath power upon earth to forgive ſins, he ſaith to the ſick of the Palſie, Ariſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi> None but God can forgive ſins: now mira<g ref="char:EOLhyphen"/>cles are aſcribed to the Holy Ghoſt, <hi>Matth.</hi>
+               <pb n="34" facs="tcp:33777:32"/>
+12. 28. <hi>Chriſt caſt out Devils by the Spirit of God:</hi> and that which adds weight to it is that parallel place, <hi>Luke 11. 20. I by the fin<g ref="char:EOLhyphen"/>ger of God coſt out Devils:</hi> What <hi>Matthew</hi> calls the <hi>Spirit, Luke</hi> calls the <hi>finger of God,</hi> or the Omnipotency of God, which is the ſame with God, <hi>Exod.</hi> 8. 19. The Spirit of God was greater and ſtronger then Chriſt as man. Again, <hi>Rom. 15. 19. Mighty ſignes and wonders were wrought by the power of the Spirit.</hi> Thoſe Miracles which the Apoſtles wrought, they profeſſed they did not work by their own power, <hi>Acts</hi> 4. 12. but by the power and ſtrength of Chriſt: And doubt<g ref="char:EOLhyphen"/>leſſe, it had been as ſacrilegious to ſay, they wrought them by the power of an Angel, or any other creature: And therefore whereas ſometimes they aſcribe them to <hi>Chriſt, Acts</hi> 4. 16. ſometimes to the <hi>Holy Ghoſt,</hi> as in the place now mentioned; ſometimes to <hi>God the Father, Acts</hi> 5. 30. it hence cleerly fol<g ref="char:EOLhyphen"/>lows, that every one of theſe is God; and becauſe the Scripture tels us there is but one God, <hi>Deut.</hi> 6. 4. therefore we conclude, there are three perſons, and theſe three are one. Again, <hi>Rom. 8. 11. The Spirit of God raiſed up Chriſt from the dead,</hi> and yet he raiſed himſelf; <hi>I will raiſe up this temple, John</hi> 2. 19. Hence alſo it follows, that Chriſt and the Holy Ghoſt are God, and are one God.</p>
+            <p n="3">
+               <pb n="35" facs="tcp:33777:32"/>3 It is proper to God to govern the Church, I mean to govern it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and to ſend Miniſters, and yet this is attri<g ref="char:EOLhyphen"/>buted to the Holy Ghoſt: <hi>Acts 13. 2. The Holy Ghoſt ſaid, Separate unto me</hi> Barnabas <hi>and</hi> Saul, <hi>for the work whereunto I have cal<g ref="char:EOLhyphen"/>led them:</hi> Was this a comely dialect for a creature to uſe? far different I am ſure it is from the language of created Angels; ſee <hi>Revel.</hi> 22. 9. So <hi>Acts 20. 28. Take heed to the flock of God, over which the Holy Ghoſt hath made you Over-ſeers;</hi> and compare this with 1 <hi>Cor.</hi> 12. 28. and you ſhall finde, that it was God that ſets Officers in the Church; Jeſus Chriſt himſelf was ſent by the Spirit, <hi>Luke</hi> 4. 18. Again, <hi>Acts 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. It ſeemed good to the Holy Ghoſt and to us, that is, to the Holy Ghoſt in us, to decree:</hi> You ſee the Holy Ghoſt is the Law-giver of the Church, and yet God is the only Law givet, <hi>Jam.</hi> 4. 12.</p>
+            <p n="4">4 The Holy Ghoſt acteth according to his good pleaſure, according to the counſel of his own will (which is the property of God, <hi>Epheſ. 1. 11.) 1 Cor. 12. 11. All theſe things worketh the Spirit, dividing ſeverally, as he will.</hi> All creatures muſt ſay, <hi>Not my will, but thy will, Lord, be done;</hi> Jeſus Chriſt himſelf, who is far higher then all the Angels, ſaid it, and the Angels in particular are ſaid not to do
+<pb n="36" facs="tcp:33777:33"/>
+their own will, but to do <hi>Gods Commande<g ref="char:EOLhyphen"/>ments, hearkening to the voice of his word, Pſal.</hi> 103. 20. And again, <hi>Paul</hi> would have gone and <hi>preached in</hi> Bithynia, <hi>but the Spi<g ref="char:EOLhyphen"/>rit ſuffered him not, Acts</hi> 16. 7. Who is this that undertakes, whom he will to ſave and whom he will to deſtroy? <hi>Non vox hominem ſonat:</hi> It is not the lan<g ref="char:EOLhyphen"/>guage of a Creature, but of the great God. <hi>Jeſus Chriſt</hi> himſelf (whom yet the Authour to the <hi>Hebrews</hi> proves at large to be better then all the Angels, <hi>Chap.</hi> 1. and ſo according to <hi>B</hi>'s. ſuppoſition, better then the Holy Ghoſt, yet he) did not diſpenſe the Word according to his own pleaſure, as man, but according to the pleaſure of his Father, <hi>Matth. 15. 24. I am not ſent, but un<g ref="char:EOLhyphen"/>to the loſt ſheep of the houſe of Iſrael.</hi>
+            </p>
+            <p>I might add, that the Holy Ghoſt ſancti<g ref="char:EOLhyphen"/>fies us, and it would eaſily amount to a De<g ref="char:EOLhyphen"/>monſtration: But I have ſaid enough for the proof of a point, ſo clearly expreſſed in the Scripture: I have done with the <hi>Cata<g ref="char:EOLhyphen"/>skeuaſtical</hi> part; I now come to the <hi>An aske<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>aſtical,</hi> I mean to detect the fallacies and cavils wherewith the enemy of the Holy Ghoſt endeavours to diſpute him out of his Throne and Deity.</p>
+            <p>And truly one may rationally expect that he that comes to diſpute a truth out of the
+<pb n="37" facs="tcp:33777:33"/>
+Church, that hath had ſo long poſſeſſion; to throw down a doctrine that hath ſo firm a foundation in the Scripture; ſhould write like <hi>Tertullian,</hi> and have as many ſentences as words, &amp; as many argnments as ſente<g ref="char:cmbAbbrStroke">̄</g>ces. But contrariwiſe, I finde in this <hi>Pneumato<g ref="char:EOLhyphen"/>machiſt</hi> nothing but a heap of words, a Jury of arguments that are neither good nor true, bold dictates imperiouſly obtruded up<g ref="char:EOLhyphen"/>on the World without any proof, ancient Land-marks removed, <hi>quia ipſe dixit,</hi> be<g ref="char:EOLhyphen"/>cauſe the Schoolmaſter would have it ſo, and ſuch things which <hi>Non ſani eſſe hominis, non ſanus juret Oreſtes.</hi> You will ſay, Why then do you anſwer him? Becauſe of that of <hi>Solomon, Anſwer a fool according to his folly, leſt he be wiſe in his own conceit, Prov.</hi> 26. 5. Beſides, God hath in juſt judgement ſent abroad a ſpirit of deluſion, and there are multitudes that will ſooner comply with a new and erroneous opinion upon the ap<g ref="char:EOLhyphen"/>pearance of one argument, then embrace a truth, though confirmed by ſeveral ſolid de<g ref="char:EOLhyphen"/>monſtrations and evident Scriptures; even as one ſtroke will carry a man further with the tide, then five againſt it. And therefore that I may cut off an occaſion from the<g ref="char:cmbAbbrStroke">̄</g> that ſeek an occaſion to fall from the truth, that I may leave thoſe inexcuſable that are reſol<g ref="char:EOLhyphen"/>ved they wil not be convinced, that I may
+<pb n="38" facs="tcp:33777:34"/>
+lay up an evidence to juſtifie God, and to be a witneſs againſt them, (who I perceive will not ſee) againſt that dreadful day of judge<g ref="char:EOLhyphen"/>ment; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I come to anſwer his ar<g ref="char:EOLhyphen"/>guments.</p>
+            <p>This only in the general: There is one conſideration, that will utterly enervate all his Arguments: It muſt needs be acknow<g ref="char:EOLhyphen"/>ledged, and <hi>B.</hi> himſelf confeſſeth it, That there are many things that are ſpoken of God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, after the manner of men, and muſt be underſtood <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo as it do not reflect diſhonour upon God. And therefore when he tels you. The Spirit ſpeaketh from God, heareth from God, receiveth from God, is ſent of God, is the gift of God, changeth place, maketh interceſſion for us, &amp;c. The anſwer in a word is this, (and it would ſuffice to ſtop the mouth of any ſober-minded man) that all theſe things are ſpoken of the Holy Ghoſt improperly, and muſt be ſo expounded, as may conſiſt with the divine Majeſty of the Holy Ghoſt, which is ſo clearly aſſerted in other Scriptures, as you have heard.</p>
+            <p>But I ſhall add one thing more in the ge<g ref="char:EOLhyphen"/>neral, That we all confeſs there is an order, though not an in equality among the divine
+<pb n="39" facs="tcp:33777:34"/>
+Perſons; and ſo all that <hi>B.</hi> objects may be anſwered, if one do apply it to his ſeveral Arguments. But I come to particulars.</p>
+            <p>
+               <hi>Object.</hi> 1. His firſt Argument is this: <hi>He that is diſtinguiſhed from God, is not God: But the Holy Ghoſt is diſtinguiſhed from God:</hi> Ergo <hi>the Holy Ghoſt is not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To the <hi>Major</hi> I anſwer, He that is diſtinguiſhed from God really and ſub<g ref="char:EOLhyphen"/>ſtantially, is not God, ſo your <hi>Major</hi> is true, otherwiſe not; for there is a modal diſtincti<g ref="char:EOLhyphen"/>on among the perſons, and then in your ſenſe the <hi>Minor</hi> is falſe; for the Holy Ghoſt is not ſubſtantially diſtinguiſhed from God; for though their perſons are diſtinguiſhed, yet the Eſſence is the ſame. But <hi>B.</hi> foreſaw this anſwer, and ſeeing he wanted argu<g ref="char:EOLhyphen"/>ments, he falls a railing. 1 He calls this, <hi>an ignorant refuge;</hi> A bold cenſure, for a ru<g ref="char:EOLhyphen"/>ſtick Paedagogue to paſs upon ſo many lear<g ref="char:EOLhyphen"/>ned men, whoſe ſhoes he will never be wor<g ref="char:EOLhyphen"/>thy to bear. He adds, <hi>That no man can con<g ref="char:EOLhyphen"/>ceive it in his minde.</hi> Alas, vain man, doeſt thou think to conceive theſe great myſteries, which the very Angels adore? But come a litle lower, canſt thou conceive what the eternity of God is? What his infinity or immenſity is? All the conceptions of thy minde are finite. Yet a little lower, Canſt thou conceive what a Spirit <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s? What a ſoul is? wiſer men
+<pb n="40" facs="tcp:33777:35"/>
+then <hi>B.</hi> could never yet do it, and therefore they can only deſcribe them by Negatives, and tell us what they are not, but cannot tell us what they are. Yet a little lower, Canſt thou tell how every quantity may be divided into infinite parts? What is the na<g ref="char:EOLhyphen"/>ture of the Load-ſtone? nay, Why thy hair is black or white? Canſt thou tell what is the eſſence of a pebble? canſt thou give the definition of a Feather? Away, vain man, lay thy hand upon thy mouth, and hence<g ref="char:EOLhyphen"/>forth never grudge that thou canſt not con<g ref="char:EOLhyphen"/>ceive ſuch a myſtery as this is in thy minde.</p>
+            <p>I believe <hi>B.</hi> can as hardly conceive the reſurrection of the body, eſpecially when one Canibal eats another, and a beaſt him, and another man that beaſt, &amp;c. will he therefore diſ-believe the reſurrection of the body? Can <hi>B.</hi> conceive how the ſoule and body are united together? it hath puzled other manner of Philoſophers then <hi>B.</hi> is; will he therefore conclude, that the ſoule and body are not united together?</p>
+            <p>But he faith, <hi>It is a diſtinction unheard of in Scripture.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That is falſe: 1 It is clearly, <hi>John</hi> 1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>The word was with God, and the word was God<g ref="char:punc">▪</g> wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h God;</hi> there God is taken perſonally, the Son was with the Fa<g ref="char:EOLhyphen"/>ther<g ref="char:punc">▪</g> 
+               <hi>was God,</hi> there it is taken eſſentially<g ref="char:punc">▪</g>
+               <pb n="41" facs="tcp:33777:35"/>
+the Son was God, had the Eſſence of God<g ref="char:punc">▪</g> It is a ſilly cavil of <hi>B</hi>'s. that the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is not to be underſtood in the ſame ſenſe, be<g ref="char:EOLhyphen"/>cauſe the Father is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the God. Chriſt onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a God. Nay not onely <hi>B.</hi> brings this exception, but which is the wonder, his fellow-creatures, his puny diſ<g ref="char:EOLhyphen"/>ciples, that I dare ſay, never ſaw <hi>Athens,</hi> are all on a ſudden turned Grecians, they that were the other day but <hi>Graculi momento tur<g ref="char:EOLhyphen"/>binis,</hi> are become <hi>Graeculi,</hi> before ever they could conſtrue this Latine <hi>Graecum eſt, non poteſt legi.</hi> But let not <hi>B.</hi> think to do (as o<g ref="char:EOLhyphen"/>ther Hereticks have done) to juſtle out an article of faith by an article of Grammar. Such <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may ſatisfie a pe<g ref="char:EOLhyphen"/>dantick Grammaticaſter, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but will never ſway with ſerious or judicious men. The obſervation is falſe and fooliſh. For the Father is many times called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, without an article,—<hi>Seek the Kingdom</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Matth.</hi> 7. 8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mat.</hi> 10. 6. And Chriſt is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with an article, <hi>Heb.</hi> 1. 8. and 1<g ref="char:punc">▪</g> 
+               <hi>John</hi> 5. 20. So that being all <hi>B.</hi> hath to ſay to that place, it doth 1 Fully prove the Divinity of Chriſt. 2 By conſe<g ref="char:EOLhyphen"/>quence give good ground for our diſtinction between the divine Eſſence, and a divine
+<pb n="42" facs="tcp:33777:36"/>
+Perſon. 3 This alſo we read in Scripture, <hi>Theſe three are one, 1 John</hi> 5. 7. 4 Two things are cleer in the Scripture: 1 That there is but one God. 2 That yet the Fa<g ref="char:EOLhyphen"/>ther is God, the Son is God, the Holy Ghoſt is God. But he goes on to an argument (as he thinks) a very ſubtil one.</p>
+            <p>
+               <hi>If the Perſon be diſtinct from the Eſſence of God, then it is either ſomething or nothing; if nothing, how can it be diſtinguiſhed?</hi> (By the way, friend, is there no diſtinction, no difference, between ſomething &amp; nothing?) <hi>If ſomething, then either finile or infinue; finite, we will not ſay; if infinite, then there are two infinites in God, the Perſon and the Eſſence.</hi> An old argument new ſodden.</p>
+            <p>I anſwer, 1 But what if I ſhould ſay, a perſon barely conſidered is neither <hi>yes,</hi> a thing properly, nor yet nothing; but <hi>modus r<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> the manner of a thing: <hi>modus ſubſtau<g ref="char:EOLhyphen"/>tialis.</hi> Had <hi>B.</hi> ſtudied Philoſophy a little better, before he had made ſuch a bold Eſſay in Divinity, he would not have wondred at it. The folding of my hands is not a thing, (for then I ſhould be a Creator, and make a thing) nor is it plainly nothing, (for there is a difference between my hands folded, and ſtretched-out) but nothing cannot make a difference, as <hi>B.</hi> ſaith.</p>
+            <p>2 I anſwer, a perſon conſidered, preciſe<g ref="char:EOLhyphen"/>ly,
+<pb n="43" facs="tcp:33777:36"/>
+and by it ſelf, is neither finite nor infi<g ref="char:EOLhyphen"/>nite (for theſe are the properties of eſſen<g ref="char:EOLhyphen"/>ces.) Indeed, every eſſence or being is ei<g ref="char:EOLhyphen"/>ther finite or infinite; but the perſon ſing<g ref="char:EOLhyphen"/>ly conſidered is not a being, but the man<g ref="char:EOLhyphen"/>ner of a being. Or,</p>
+            <p>3 The Perſons conſidered with the Eſ<g ref="char:EOLhyphen"/>ſence are infinite, and yet they are not three infinites, becauſe they have but one Eſſence, and ſo one infinity.</p>
+            <p>But he addes, <hi>To talk of God Eſſentially taken, is ridiculous, becauſe God is the name of a perſon.</hi> Wretched ignorance! <hi>B.</hi> doth not underſtand the meaning of his Adver<g ref="char:EOLhyphen"/>ſaries. None ever took God eſſentially in that ſenſe, for an eſſence abſtracted from a perſon: but the meaning is this, that I may a little inſtruct him in this principle; We ſay, God eſſentially conſidered, acts, not as if the abſtracted nature of God did act, but becauſe it is an act common to all the Per<g ref="char:EOLhyphen"/>ſons: Thus to create, is an act of God eſ<g ref="char:EOLhyphen"/>ſentially conſidered, becauſe all the Trinity creates; but to beget the Son is an act of God perſonally conſidered, becauſe that is an act proper to the firſt Perſon.</p>
+            <p>
+               <hi>Object.</hi> 2. His ſecond Argument is this, <hi>He that gave the holy Spirit is Jehovah a<g ref="char:EOLhyphen"/>lone,</hi> Neh. 9. 6, 2c. Therefore <hi>the Spirit is not God.</hi>
+            </p>
+            <p>
+               <pb n="44" facs="tcp:33777:37"/>
+               <hi>Anſw.</hi> This excluſive Particle doth ex<g ref="char:EOLhyphen"/>clude Creatures and Idol-gods, but not the other Perſons of the Trinity; So it is uſed in many other places, <hi>Matth.</hi> 11. 27. The day of Judgment none knowes but the Fa<g ref="char:EOLhyphen"/>ther only, and yet Chriſt as God could not be ignorant of it, for he knew even the thoughts of the heart<g ref="char:punc">▪</g> 
+               <hi>Math.</hi> 9. 4<g ref="char:punc">▪</g> which is much more; nor could the Spirit be igno<g ref="char:EOLhyphen"/>rant of it, for that <hi>ſearcheth even the deep things of God,</hi> 1 Cor. 2. 10. ſo, 1 <hi>Cor.</hi> 2. 11. the things of God knoweth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (not onely no man, but) <hi>no perſon;</hi> for ſo the word ſignifies, but the Spirit of God: Shall any weak or perverſe Diſputant infer from hence, Therefore the Father knowes them not, or knowledge is not properly attributa<g ref="char:EOLhyphen"/>ble to God, as Mr. <hi>Goodwin,</hi> tells us<g ref="char:punc">▪</g> So <hi>Rev. 19. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Chriſt had a Name which no<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> knew but himſelf;</hi> what, did not God the Father know it? So, <hi>Deut. 32. 12. The Lord alone did lead them:</hi> and yet Chriſt is ſaid to lead them, 1 <hi>Cor.</hi> 10. 4, 9. and alſo the the Spirit, <hi>Neh.</hi> 9. 20. So, <hi>Pſal. 136. 4. The Lord alone doth great wonders;</hi> and yet<g ref="char:punc">▪</g> we have proved that the Holy Ghoſt doth great wonders.</p>
+            <p>
+               <hi>Object.</hi> 3. His third Argument is this, <hi>He that ſpeaketh not of himſelf, is not God: But the Holy Ghoſt ſpeaketh not of himſelf:</hi>
+               <pb n="45" facs="tcp:33777:37"/>
+Therefore <hi>the Holy Ghoſt is not God.</hi> The <hi>Minor</hi> is proved from <hi>Joh.</hi> 16. 13.</p>
+            <p>
+               <hi>Anſw.</hi> This is the fruit of Gods conde<g ref="char:EOLhyphen"/>ſcenſions to unthanfull men, they take oc<g ref="char:EOLhyphen"/>caſion to ſlight him for them. Thus becauſe Chriſt was pleaſed to aſſume the nature of man, ſome have rendered him this thanks, to diſpute him out of his Godhead. Thus, becauſe God in Scripture condeſcends to our capacity, therefore they have requited him thus, to ſay that all things muſt be un<g ref="char:EOLhyphen"/>derſtood properly of God, how much ſoever they tend to his diſhonour. Ungratefull wretches! aſſure your ſelves, this wicked unthankfulneſſe ſhall not go unpuniſhed. But to anſwer: 1 This phraſe doth note an order, though no inequality in the Divine Perſons. Now as the Holy Ghoſt, in regard of his perſon, is not of himſelf, but from the Father and the Son, ſo he acts alſo from them. 2 This phraſe doth note the conſent that was between the Father and the Spirit; as if Chriſt had ſaid, The Spi<g ref="char:EOLhyphen"/>rit ſhall not ſpeak one thing, and the Fa<g ref="char:EOLhyphen"/>ther another, but both ſhall agree; accord<g ref="char:EOLhyphen"/>ing to that, <hi>There are three that bear record in heaven,</hi> 1 Ioh. 5. 7. There is not the ſin<g ref="char:EOLhyphen"/>gle teſtimony of the Spirit, but the joynt atteſtation of all the three Perſons. He ſhall not ſpeak from himſelf (alone,) the
+<pb n="46" facs="tcp:33777:38"/>
+excluſive particle is often underſtood. So <hi>Deut.</hi> 6. 13. is expounded by Chriſt, <hi>Matth.</hi> 4. 16. But he ſhall ſpeak what he hears, the very ſame things that the Father ſpeaks, and he hears, he ſhall ſpeak. Nor doth this hearing argue any inferiority; one man may hear another that is no more learned then himſelf: As if I ſhould ſay of three Ambaſſadors of equall parts and power, Such an one of them, you may ſafely treat with, for he ſhall not ſpeak of himſelf, but whatſoever he ſhall hear, that ſhall he ſpeak. My meaning is not, He ſhall not ſpeak by his own power or vertue, nor from his own knowledge, but onely to ſhew that there is a conſent between them all. 3 The words may be taken thus; He ſhall not ſpeak of himſelf, concerning himſelf, one<g ref="char:EOLhyphen"/>ly or principally, but whatſoever he ſhall hear concerning me, &amp;c. that is fit for you to know, he ſhall <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ew you. So th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it notes not his manner of ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aking, but the matter that he ſhall <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of.</p>
+            <p>But <hi>B.</hi> ſaith, <hi>This phraſe in Scripture, to do a thing not of himſelf, notes, to do a thing by the teaching, command, authority of ano<g ref="char:EOLhyphen"/>ther.</hi> I anſwer: There are many phraſes, which are ſpoken both of God and man; but <hi>B.</hi> muſt know, that things are not attri<g ref="char:EOLhyphen"/>buted to God and man univocally, that is,
+<pb n="47" facs="tcp:33777:38"/>
+in one and the ſame ſenſe. God is ſaid to repent, and man is ſaid to repent; yet I hope <hi>B.</hi> is not ſo brutiſh as to think God re<g ref="char:EOLhyphen"/>pents and grieves properly; how then ſhould he be perfectly happy? But ſince I writ my laſt, I have ground to recall my hopes; for <hi>B</hi>'s. followers (who, it is like, dare not ſpeak a word without their Maſters warrant) are ſuch things, that they ſay, God is grieved properly. Leſt any man ſhould think I wrong them, and that the World may ſee what rare intelligent creatures theſe are (that cannot believe the Deity of the Holy Ghoſt, becauſe of too much reaſon) I will give you their own words, as I had them out of a p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tifull Ma<g ref="char:EOLhyphen"/>nuſcript, which is much applauded by that party: They are theſe, <hi>We muſt either con<g ref="char:EOLhyphen"/>clude, that God doth repent and grieve, and that properly too, or elſe we muſt, in effect ſay, Scripture, thou lieſt.</hi> Oh prodigious wit, pro<g ref="char:EOLunhyphen"/>found judgement, quinteſſence of learning, mirro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of reaſon! And yet theſe are the onely <hi>Animalia vatioxalia,</hi> and we poor mortalls that believe Perſonalities, Trinu<g ref="char:EOLhyphen"/>nities, &amp;c. it is a favour, if they will allow us to be <hi>Animals,</hi> but for rationality we muſt leave it with them, and it is confeſſed, they have great need of it. But to return: God is ſaid to have hands and feet, &amp;c. and
+<pb n="48" facs="tcp:33777:39"/>
+ſo are men; yet I hope not in the ſame ſenſe. And yet a man might as well urge theſe e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſions, to prove that God hath hands, &amp;c. becauſe when it is ſpoken of men, it is ſo to be taken, as to infer with <hi>B.</hi> becauſe when a man is ſaid not to ſpeak of himſelf, it is meant, he ſpeaks by the dire<g ref="char:EOLhyphen"/>ction and at the appointment of another: therefore it is ſo to be underſtood, when it is attributed to God the Holy Ghoſt. And yet it is falſe that it alwayes is ſo taken a<g ref="char:EOLhyphen"/>mong<g ref="char:punc">▪</g> men. Suppoſe a King ſhould ſay, I will leavy ſuch a tax, or do ſuch a thing, but I will not do it of my ſelf, but I will conferre with my Councill about it; doth this note, that he levies the tax by the teaching, command, authority of another, and not by his own autho<g ref="char:EOLhyphen"/>rity?</p>
+            <p>
+               <hi>Object.</hi> 4 His fourth Argument is this, <hi>The Spirit heareth from another,</hi> Ioh. 16. 13. Therefore <hi>it is not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Argument is the ſame for ſubſtance with the other, and the ſame an<g ref="char:EOLhyphen"/>ſwer will ſuffice<g ref="char:punc">▪</g> But <hi>B.</hi> ſoreſaw what an<g ref="char:EOLhyphen"/>ſwer<g ref="char:punc">▪</g> would ſtop his mouth, and therefore<g ref="char:punc">▪</g> he laies a ſtrict charge upon us<g ref="char:punc">▪</g> not to ſay, this is ſpoken improperly. Well, but <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shall we take it properly, hath the Holy<g ref="char:punc">▪</g> Ghoſt bodily ears to hear? 2 Or was the<g ref="char:punc">▪</g>
+               <pb n="49" facs="tcp:33777:39"/>
+Holy Ghoſt to learn? was he to ſeek in Goſpel-myſteries? How can that be imagi<g ref="char:EOLhyphen"/>ned of him that dictated the Scripture, and fully<g ref="char:punc">▪</g> underſtood all the meaning of it? <hi>Heb.</hi> 9. 8. Beſides a Text that <hi>B.</hi> himſelf cites, will not permit this; which is <hi>Iſa.</hi> 40. 13, 14. compared with <hi>Ro.</hi> 11. 34. I confeſs I cannot but admire both the wiſdome of God, and the beſortedneſſe of this man, that ſhould cite ſuch a Text that is enough to overthrow all<g ref="char:punc">▪</g> he ſaith: I beſeech you follow his di<g ref="char:EOLhyphen"/>rections<g ref="char:punc">▪</g> compare thoſe<g ref="char:punc">▪</g> Texts<g ref="char:punc">▪</g> together; what in one place, <hi>Rom.</hi> 11. 34. is ſaid of the Lord, <hi>Who hath known the minde of the Lord? or who hath been his Counſellor?</hi> that in<g ref="char:punc">▪</g> 
+               <hi>Iſai.</hi> 40. 13. is ſpoken of the Spirit of God; <hi>Who hath directed the Spirit of the Lord? or being his Counſellour hath taught him?</hi> The ſame independency and ſelf<g ref="char:EOLhyphen"/>ſufficiency is attributed to them both. A<g ref="char:EOLhyphen"/>gain, that Spirit of the Lord, <hi>Iſai.</hi> 40. 13. is there called the <hi>Lord God, verſ.</hi> 10. is ſaid to be <hi>infinite, ver.</hi> 12, 15. is ſaid to be <hi>he to whom ſacrifices belong, ver.</hi> 16. which is Gods prerogative; is called <hi>God, ver.</hi> 18. All which, if I liſted to proſecute them, would make ſo many unanſwerable De<g ref="char:EOLhyphen"/>monſtrations. It is a ſigne of a deſperate cauſe that <hi>B.</hi> is forced to this refuge, that by the Spirit<g ref="char:punc">▪</g> of God<g ref="char:punc">▪</g> here is not meant the
+<pb n="50" facs="tcp:33777:40"/>
+Holy Spirit, but onely the minde of God, which indeed deſerves not a refutation; for that phraſe is never ſo taken in all Scri<g ref="char:EOLhyphen"/>pture, or any other Authour. Nor doth <hi>B.</hi> cite any place, wherein it is ſo taken (the more his boldneſſe to foiſt in ſuch a novell interpretation, without any example.) Wherreas he parallels it with 1 <hi>Cor. 2. 16. Who hath known the minde of the Lord?</hi> that is nothing to the purpoſe. For, 1 By the minde of the Lord may very well be meant the minde of the Spirit, or the minde of Chriſt rather, as appears by the <hi>Antitheſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in this place, <hi>but we have the minde of Chriſt.</hi> 2 If it were the minde of the Father, it would give him no help; for the Father, Son, and Spirit have all one minde, and ſo that is all that would follow; not that the Spirit of the Lord and the minde of the Lord are the ſame, (as <hi>B.</hi> groundleſly fan<g ref="char:EOLhyphen"/>cies) but that the minde of the Father and the minde of the Spirit is one and the ſame.</p>
+            <p>
+               <hi>Object.</hi> 5. His fifth Argument is this, <hi>He that receiveth of another, is not God<g ref="char:punc">▪</g> But the Holy Ghoſt receiveth of another<g ref="char:punc">▪</g>
+               </hi> Ioh. 16. 14. <hi>He ſhall receive of mine, a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhew it to you:</hi> Therefore <hi>the Holy Ghoſt i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This alſo is but the ſame Argu<g ref="char:EOLhyphen"/>ment
+<pb n="51" facs="tcp:33777:40"/>
+over again, repeated only (I ſuppoſe) to make up the dozen. The anſwer to the third Argument will ſuffice for this, yet ſomething may be added<g ref="char:punc">▪</g> For ſuppoſe the Holy Ghoſt did properly receive any thing from the Father, yet could he not properly be ſaid to receive any thing of Chriſt (ac<g ref="char:EOLhyphen"/>cording to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s ſuppoſition, that looks upon Chriſt but as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a meer man:) for contrariwiſe, Chriſt as man re<g ref="char:EOLhyphen"/>ceived all his fulneſſe from the Spirit, <hi>Joh. 3. 34. He received the Spirit without meaſure<g ref="char:punc">▪</g> Iſai.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. 1. Again, it is not ſaid, he ſhall re<g ref="char:EOLhyphen"/>ceive of me, but of mine; that is, he ſhall take my wiſdome, righteouſneſſe, holineſs, my death, reſurrection, &amp;c. and ſhall ſhew them to you, ſhall make a full diſcovery of thoſe myſteries to you, he ſhall take my blood and ſprinkle it upon your conſcien<g ref="char:EOLhyphen"/>ces; my death, and thereby deſtroy the bo<g ref="char:EOLhyphen"/>dy of death in you; my reſurrection, and by ſhewing that to you, and working a ſerious conſideration of it in you, ſhall quicken you to newneſſe of life. The meaning<g ref="char:punc">▪</g> is not (as <hi>B.</hi> ignorantly ſuppoſeth) that the Holy Ghoſt receives any knowledge of Chriſt for his own perfection (ſeeing he did ſo per<g ref="char:EOLhyphen"/>fectly underſtand all<g ref="char:punc">▪</g> Scripture-myſteries before, as we have proved,) but onely that he ſhall receive or take theſe things to ſhew them to you.</p>
+            <p>
+               <pb n="52" facs="tcp:33777:41"/>
+               <hi>Object.</hi> 6<g ref="char:punc">▪</g> Arg. 6. <hi>He that is ſent of God is not God: But the Holy Ghoſt is ſent of God:</hi> Therefore <hi>he is not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Still the ſame miſtake: the ſame anſwer will ſuffice again, (for indeed for ſubſtance<g ref="char:punc">▪</g> this is ſtill but the ſame Argu<g ref="char:EOLhyphen"/>ment:) The Holy Ghoſt is not properly ſent, nor can be, that is, from one place to another, for he fills all places, as I have proved already, and therefore this muſt not be ſo brutiſhly underſtood as if the Spirit were ſent a long journey from heaven to earth; but onely this, I will undertake (ſaith God) that my Spirit ſhall be a Com<g ref="char:EOLhyphen"/>forter to you; and this God might will without any diſparagement to the Holy Ghoſt, becauſe the Father and the Spirit have both one nature, one will, and ſo what the one wils, the other wils alſo, and ſo the Holy Ghoſt did actually conſent to this promiſe of the Father; now by con<g ref="char:EOLhyphen"/>ſent one equall may ſend another. Thus Chriſt, <hi>who thought it no robbery to be equall with God,</hi> Phil. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 6. yet was ſent of God.</p>
+            <p>Nay even in civill States one may, be ſent as an Ambaſſadour by his equalls. Sup<g ref="char:EOLhyphen"/>poſe a State governed Ariſtocratically by eight men: four of theſe may ſend the o<g ref="char:EOLhyphen"/>ther four with their conſent upon an Am<g ref="char:EOLhyphen"/>baſſage, and yet all of them are equall in power and dignity.</p>
+            <p>
+               <pb n="53" facs="tcp:33777:41"/>
+               <hi>Object.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arg. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>He that is the gift of God is not God<g ref="char:punc">▪</g> But the Spirit of God is the gift of God:</hi> Ergo <hi>he is not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I confeſſe here are new words, <hi>animus <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amen idem,</hi> but the ſame ſenſe. In a word, the <hi>Major</hi> is falſe; God gives him<g ref="char:EOLhyphen"/>ſelf in Covenant to his people<g ref="char:punc">▪</g> 
+               <hi>I will be their God, Jer.</hi> 32. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Let us ſee whether his Argument will not as well diſprove the Godhead of the Father, as of the Spirit. He that is the gift of God is not God. But God the Father is the gift of God: for he given himſelf (as Chriſt alſo is ſaid to give himſelf, <hi>Gal.</hi> 2. 20.) The concluſion, then is, according to <hi>B</hi>'s. principles, God the Father is not God; a concluſion indeed ſuitable to the premiſſes, but both to be abominated by every pious ſoul. But <hi>B.</hi> addes, <hi>A gift is in the power and at the diſpoſal of another.</hi> I anſwer 1, That is falſe<g ref="char:punc">▪</g> I may give my daughter to a man to wife, and yet ſhe is not in my power, for this I cannot do without her conſent<g ref="char:punc">▪</g> So neither can God give the Spirit without its conſent<g ref="char:punc">▪</g> 2 What if I ſhould grant the Holy Ghoſt were at the diſpoſal of Gods will<g ref="char:punc">▪</g> remember that the Father and the Spirit have but one will, and ſo that is no more then to be at its own diſpoſal<g ref="char:punc">▪</g> 3<g ref="char:punc">▪</g> This Argument may be ſtrong<g ref="char:EOLhyphen"/>ly retorted; therefore the Holy Ghoſt is
+<pb n="54" facs="tcp:33777:42"/>
+not a created gift, becauſe he is at his own diſpoſall, as we have proved in the ſeventh Argument.</p>
+            <p>
+               <hi>Object.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. His eighth Argument is this, <hi>He that changeth place is not God: But the Holy Ghoſt changeth place,</hi> Luke 3. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, 22. Therefore <hi>he is not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1 Certain it is, that God is often ſaid in Scripture to change place, <hi>Pſal. 18. 9. God bowed the Heavens, and came down: Hoſ. 5. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. I will go and return to my place: Gen. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 21. The Lord came down to ſet the City,</hi> though elſwhere he is ſaid to be Omni<g ref="char:EOLhyphen"/>preſent, 2 <hi>Chron. 6. 18. Pſal. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>9. Jer.</hi> 23. 24. But he ſaw the weakneſſe of this Argument, and therefore he adds this, <hi>Nor let any man alledge that thus much is ſaid of God,</hi> Exod. 3. <hi>For it is not God that came down, but an Angel,</hi> as you may ſee, Acts <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 30, 35, 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Which (by the way) is a transition to another Argument: Yet I ſhall follow him even in his extravagancies. I anſwer therefore, 1 This doth not at all weaken our anſwer; for what though Angels came down at ſome time, and not God, yet it re<g ref="char:EOLhyphen"/>mains a truth, that the great God is ſaid to change his place (though not properly) as hath been proved. 2 Nor doth it follow, becauſe ſometime an Angel came down and ſpake, therefore God never came down, nor
+<pb n="55" facs="tcp:33777:42"/>
+ſpake. 3 God himſelf is called an Angel, <hi>Mal.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1. Chriſt is called <hi>the Angel of the Covenant:</hi> The Angel that wreſtled with <hi>Jacob, Gen.</hi> 32<g ref="char:punc">▪</g> was the Lord, for <hi>Jacob</hi> made ſupplication to him, <hi>Hoſ. 12. 4. Gen.</hi> 32. 26. Now worſhip is peculiar to God. 4 Evident it is that this Angel, <hi>Exod.</hi> 3. was the Lord; for he ſaith expreſly, <hi>I am the God of Abraham,</hi> whereas the good Angels and meſſengers of God never ſpake in that manner in the firſt perſon: <hi>I am thy fellow<g ref="char:EOLhyphen"/>ſervant,</hi> ſaid that Angel, <hi>Revel.</hi> 22. So the Prophets uſed to ſpeak of God in the third perſon, <hi>Thus ſaith the Lord.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 9. His ninth Argument is this, <hi>He that prayeth unto Chriſt is not God: But the Spirit prayeth to Chriſt to come to judge<g ref="char:EOLhyphen"/>ment,</hi> Revel. 22. Therefore <hi>it is not God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It can never be proved, that this Te<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is to be meant of the Spirit of God, it may very well be meant of any Angel. For, 1 Certainly the Angels deſire to ſee the happineſſe of the Saints compleated. 2 In the very verſe before the Text, there is men<g ref="char:EOLhyphen"/>tion made of a created Angel.</p>
+            <p>
+               <hi>Object.</hi> But then it would not have been Spirit in the ſingular number.</p>
+            <p>
+               <hi>Anſw.</hi> There is no neceſſity of that, for why may not one good Spirit ſignifie more good Angels, as well as one unclean ſpirit
+<pb n="56" facs="tcp:33777:43"/>
+ſignifie a legion, <hi>Mark</hi> 5. 2, 9.</p>
+            <p>But what if it were meant of the Spirit of God? The meaning onely is this, the Spirit ſpeaketh in the Spouſe, and dictates to the Spouſe; It is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Figure ve<g ref="char:EOLhyphen"/>ry frequent both in Scripture, and in other Authors: though the Adverſary doth ma<g ref="char:EOLhyphen"/>giſterially forbid us this Interpretation, without giving one reall proof againſt it,</p>
+            <p>I ſhall adde here what <hi>B.</hi> hath in his twelfth Reaſon, which indeed properly be<g ref="char:EOLhyphen"/>longs to this place. He quotes, <hi>Rom. 8. 27. The Spirit maketh interceſſion for us with groanes unutterable. The Spirit</hi> (ſaith <hi>B.) poures out petitions apart in our behalf.</hi> This our adverſary calls an invincible argument; but I hope by that time we have done with it, it will be found like the invincible Navy, <hi>Nomen, &amp; praeterea nihil.</hi>
+            </p>
+            <p>I anſwer, The Spirit is ſaid to intercede, becauſe it makes us to intercede: For proof of this, 1 It is ordinary in Scripture for God to be ſaid to do that which he maketh us to do; thus, <hi>Gen.</hi> 22. 12. God is ſaid to know, when he maketh others to know: So, <hi>Matth. 10. 20. The Spirit of your Father ſpeaketh in you,</hi> which is thus expounded, <hi>Luke 21. 15.—I will give you a mouth and wiſdome, which all your adverſaries ſhall not be able to gain-ſay:</hi> So that the Spirit
+<pb n="57" facs="tcp:33777:43"/>
+ſpeaking in them, and they ſpeaking by the Spirit, ſignifie the ſame thing. Thus a Scrivener is ſaid to write, when by directing our hands he makes us to write. 2 It is the Spirit within us, not without us, that makes interceſſion for us, our prayer therefore is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Jam.</hi> 5. 16. haply to note, that it is wrought in us by the Spirit. 3 This interpretation ſuites beſt with the Context; all along he is ſpeaking of the Spirits operation in us, <hi>ver. 11. If the Spirit of God dwell in you, Verſe</hi> 15. is parallel to this 27. <hi>Ye have received the Spirit of Ado<g ref="char:EOLhyphen"/>ption, by which we cry Abba, Father:</hi> Theſe are equivalent expreſſions, the Spirit in us cries <hi>Abba, Father,</hi> and we by the Spirit cry <hi>Abba, Father.</hi> And the ſame thing you ſince expreſſed both wayes by the former phraſe, <hi>Gal.</hi> 4. 6. by the latter, <hi>Rom.</hi> 8. 15. which if well conſidered, will fully anſwer <hi>B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ales</hi> Argument. But indeed we need to go no further for an antidote againſt <hi>B</hi>'s. poiſon<g ref="char:EOLhyphen"/>ous interpretation, then the 26 verſe, and we may adde the 27 verſe to it. Thence I argue, 1 Such an interpretation muſt be underſtood as helps our infirmities in pray<g ref="char:EOLhyphen"/>ing: But our infirmities in praying are helped by the Spirits inabling us to pray, and not by I know not what interceſſion of the Spirit apart.</p>
+            <p>
+               <pb n="58" facs="tcp:33777:44"/>2 Such an interceſſion of the Spirit muſt be underſtood, as teacheth us how to pray as we ought; but it is not a ſuppoſed inter<g ref="char:EOLhyphen"/>ceſſion of the Spirit of God apart from us that doth that: (how the prayer of an An<g ref="char:EOLhyphen"/>gel, which we neither hear, nor know, ſhould teach us to pray, is not eaſie to con<g ref="char:EOLhyphen"/>ceive) but the Spirit in us enlightening our mindes, dictating to us what we ſhould ask, that, and that alone helps us againſt our ignorance.</p>
+            <p>3 Whoſe the groanings are, his the in<g ref="char:EOLhyphen"/>terceſſion is: That is clear to any one that reads the 26 verſe, <hi>The Spirit maketh inter<g ref="char:EOLhyphen"/>ceſſion for us with groanings, &amp;c.</hi> But the groanings are ours, as appears, 1 So they are ſaid to be, <hi>verſ.</hi> 23. 2 They are groanings that cannot be uttered: I ſuppoſe <hi>B.</hi> will not ſay, but the Spirit is able to utter all his minde. 3 Nor can it eaſily be imagined, that the bleſſed Spirit which is our comforter, and the Spirit of glory ſhould be ſubject to groaning, ſee<g ref="char:EOLhyphen"/>ing the very glorified Saints are freed from them, then whom the Spirit cannot be thought to be leſs happy, or more miſerable.</p>
+            <p>4 If the minde of the Spirit be our minds aſſiſted by the Spirit, then the interceſſion of the Spirit, is our interceſſion helped by the Spirit. But the minde of the Spirit is
+<pb n="59" facs="tcp:33777:44"/>
+meant of our minds, or our deſires aſſiſted by the Spirit; becauſe Gods ſearching the heart is given as a ground of Gods knowing the minde of the Spirit. Now there were neither coherence nor conſequence between the ſearching of our hearts, and the know<g ref="char:EOLhyphen"/>ing the minde of the Spirit, if the minde of the Spirit were to be underſtood pro<g ref="char:EOLhyphen"/>perly.</p>
+            <p>5 The interceſſion of the Spirit is ac<g ref="char:EOLhyphen"/>cording to the will of God: But the Spirits interceding for us apart, as <hi>B.</hi> ſuppoſeth, is not according to the will of God. Nay, that an Angel (for ſuch <hi>B.</hi> ſaith the Spirit is) ſhould intercede for us, is contrary to the will of God, for this is the will of God, <hi>There is but one Mediator, 1 Tim.</hi> 2. 6. that is, one Mediator of Interceſſion, as well as one of Redemption (as we generally ſay againſt the Papiſts;) for of interceſſion he is ſpeak<g ref="char:EOLhyphen"/>ing in that Chapter, <hi>ver.</hi> 1. And on the o<g ref="char:EOLhyphen"/>ther ſide it is the will of God, that the Spi<g ref="char:EOLhyphen"/>rit ſhould intercede for us in our ſenſe, that it ſhould help us in our prayers and inter<g ref="char:EOLhyphen"/>ceſſions, by convincing, comforting, en<g ref="char:EOLhyphen"/>lightening, guiding, and teaching us, by helping our infirmities; and therefore ſo it muſt be here underſtood.</p>
+            <p>To adde one thing, I ſhould deſire no<g ref="char:EOLhyphen"/>thing more then that both our doctrines
+<pb n="60" facs="tcp:33777:45"/>
+might be tried by this Text, I durſt willing<g ref="char:EOLhyphen"/>ly venter all upon its arbitration. For be<g ref="char:EOLhyphen"/>ſides, what hath been ſaid, let this be conſi<g ref="char:EOLhyphen"/>dered: How it can poſſibly be that the Ho<g ref="char:EOLhyphen"/>ly Ghoſt ſhould be onely a created Angel, and yet here be ſaid to know the particular wants and moſt ſecret deſires of every par<g ref="char:EOLhyphen"/>ticular Saint?—Conſidering 1 That it is the property of God to ſearch the heart, <hi>Jer.</hi> 17. 9, 10. <hi>The heart is deceitfull,—who can know it? I the Lord ſearch the heart.</hi> Where nothing more evident then that he ſpeaks excluſively. So here in this very place, theſe 26 and 27 verſes. 2 That it is not imaginable, that that perſon that is ig<g ref="char:EOLhyphen"/>norant of the day of Judgement, can know all mens hearts. But ſo all the Angels, yea Chriſt himſelf as man is, <hi>Mark</hi> 13. 32. 3 God doth venture all his God<g ref="char:EOLhyphen"/>head upon a leſſe matter, <hi>Iſa.</hi> 41. 22, 23. <hi>Let them ſhew things to come, what ſhall happen, that we may know ye are gods.</hi> And yet ſome men have been ſo bold as to diſpute whe<g ref="char:EOLhyphen"/>ther Angels might know things to come, but no man before <hi>B.</hi> durſt ſay that they knew the hearts of men. Nor will any man ſay ſo, that underſtands any thing ei<g ref="char:EOLhyphen"/>ther in Philoſophy or Divinity. But to re<g ref="char:EOLhyphen"/>turn.</p>
+            <p>
+               <hi>B.</hi> objects, <hi>None can intercede for himſelf.</hi>
+               <pb n="61" facs="tcp:33777:45"/>
+For that I anſwer, Interceſſion is taken ſometimes more ſtrictly, when the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and then indeed it is moſt com<g ref="char:EOLhyphen"/>monly underſtood of one that inrercedes as a Mediator between two parties: but ſometimes it is taken more largely, and ſo is the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> oft taken for <hi>interpellare,</hi> or <hi>compellare,</hi> to intreat, whe<g ref="char:EOLhyphen"/>ther for a mans ſelf, or for another; <hi>In Thucydides, Pars adverſa adverſae parti hoſtiluer dicitur</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: So that it notes onely <hi>compeltare,</hi> whether <hi>ſuppli<g ref="char:EOLhyphen"/>cando,</hi> or <hi>expoſtuland<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> So in the eighth Chapter of the <hi>wiſdome of Solomon, verſ. 21. Knowing</hi> (ſaith he) <hi>that I could never be wiſe and good except God gave it,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I interceded, or made requeſt to God for it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A like place is, <hi>wiſdome</hi> 16. 28. where the word is ſo uſed. And though theſe places be Apo<g ref="char:EOLhyphen"/>chryphall, yet it matters not, for it ſhewes how that Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is ſome<g ref="char:EOLhyphen"/>times uſed for a ſimple praying, though for a mans ſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which was the thing to be ſhewn. For the addition of the word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that may refer either to a perſon, or a buſineſſe, <hi>Oro pro negotio ali<g ref="char:EOLhyphen"/>quo,</hi> as well as <hi>pro perſona altera.</hi> Nay not
+<pb n="62" facs="tcp:33777:46"/>
+onely, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but which is more, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is applied to God himſelf in re<g ref="char:EOLhyphen"/>ference to man without any third party, <hi>Heb.</hi> 6. 17. <hi>Deus</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he e<g ref="char:EOLhyphen"/>ſtabliſhed, or confirmed with an oath, but properly it ſignifies, he mediated to himſelf or interceded to himſelf with an oath. And therefore, if the Spirit be ſaid to intercede to God, let not <hi>B.</hi> infer, therefore it is not God, for we ſee God intercedes to him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>But he addes, <hi>To intercede, notes inferio<g ref="char:EOLhyphen"/>rity; and though in Scripture ſome-things are ſpoken after the manner of men, yet no where is any thing ſaid that argues Gods inferiority to, and dependance upon another.</hi>
+            </p>
+            <p>I anſwer, 1 This is very falſe; God ſaith to <hi>Moſes, Let me alone,</hi> Exod. 32. Doth not this expreſſion argue inferiority and dependance too? Yes ſurely, <hi>B.</hi> cannot deny it; but onely he muſt ſay, it is impro<g ref="char:EOLhyphen"/>perly taken; and muſt be ſo interpreted, as may conſiſt with Gods Majeſty and Glory: and ſo he will alſo enervate all his own Arguments. 2 I obſerve hence, that <hi>B.</hi> doth poſitively conclude, that Chriſt (be<g ref="char:EOLhyphen"/>cauſe he intercedes) is inferiour to God, though he profeſſed he would not meddle with that<g ref="char:punc">▪</g> But alas! we need not now run
+<pb n="63" facs="tcp:33777:46"/>
+to conſequences to prove that <hi>B.</hi> denies the Deity of Chriſt: for that ſame wretched hand that lift up it ſelf againſt the Holy Ghoſt, hath in the ſame manner, and with the ſame weakneſſe too endeavoured to de<g ref="char:EOLhyphen"/>throne our Lord Ieſus, and written many leaves expreſly againſt the divinity of our ever bleſſed Saviour, who (doubtleſſe) will plead his own cauſe, and will one day ſhew how ill he takes it at the hands of thoſe men that pretend to be bought by his blood, and yet can quietly ſuffer every unworthy fellow to preach and write high treaſon againſt the King of heaven and earth; and in the mean time, proſecute even to the death thoſe that do any way abet any trea<g ref="char:EOLhyphen"/>ſonable deſigne againſt the State.</p>
+            <p>
+               <hi>Object.</hi> 10. His tenth Argument is this, <hi>Some have been Diſciples and Believers, and yet have not ſo much as heard whether there be an Holy Ghoſt,</hi> Act. 19. 2. <hi>and ſo they could not believe in him.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. The meaning of the Text is quite miſtaken; for they did not doubt whether there was an Holy Ghoſt or no, they could not be ignorant of this: <hi>John</hi> doubtleſſe having inſtructed them before <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> did baptize them, and there being ſo m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny clear teſtimonies of the Spirits exiſtence in the Old Teſtament. But the meaning then
+<pb n="64" facs="tcp:33777:47"/>
+is this, We have not heard whether the Holy Ghoſt be come and manifeſted in ſo eminent a manner as is promiſed; for you muſt conſider, that the Iewes after the Ba<g ref="char:EOLhyphen"/>byloniſh Captivity had loſt thoſe glorious diſcoveries, and the gracious preſence of the Holy Ghoſt, which once they had; this being one of thoſe five things, wherein they uſed to complain the ſecond Temple came ſhort of the firſt. And further, they knew that God had promiſed the manifeſtation of the Spirit in an extraordinary manner, <hi>Joel</hi> 2. Now that this is the reall meaning, &amp; not a fancy, I will prove, 1 By a parallel place; you have the very ſame phraſe, <hi>Jo. 7. 39. The Spirit was not yet (given,</hi> is not in the Origi<g ref="char:EOLhyphen"/>nal onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) why? the Spirit was, and had deſcended upon Chriſt long before; but this is the meaning, the gifts of the Spirit were not ſo plentifully ſhed abroad as af<g ref="char:EOLhyphen"/>terwards they were upon the Apoſtles and others. 2 It appears from the Context, that he ſpeaks of the gifts of the Holy Ghoſt; ſee <hi>verſ. 6. The Holy Ghoſt came on them, and they ſpake with congues and propheſied.</hi> So th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I cannot chuſe but laugh at, and pity the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old and conceited ignorance of B. who ſaith<g ref="char:punc">▪</g> 
+               <hi>It is without example to take the holy Spirit <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the gifts of the Spirit;</hi> whereas you ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt needs be ſo taken in the pla<g ref="char:EOLhyphen"/>ces
+<pb n="65" facs="tcp:33777:47"/>
+now mentioned, and in many other pla<g ref="char:EOLhyphen"/>ces: ſee, <hi>Act.</hi> 2. 17. So, <hi>Joh. 20. 22. He breathed on them, and ſaid, Receive ye the Holy Ghoſt.</hi> The perſon of the Holy Ghoſt they had received before; They were the Temples of the Holy Ghoſt before: Nay, <hi>B.</hi> himſelf (that you may ſee errour doth not onely oppoſe the truth, but it ſelf alſo) doth elſwhere contradict this very aſſer<g ref="char:EOLhyphen"/>tion, and tells us, <hi>That when the Spirit is ſaid to dwell in us, the meaning is not, that his perſon or eſſence dwell in us, but that he dwelleth in us by his gifts or effects.</hi> Well, but what if <hi>B</hi>'s. interpretation were true? nothing of moment followes. What an Ar<g ref="char:EOLhyphen"/>gument is this? Some were ignorant of the Deity of the Holy Ghoſt, therefore it is not God: As if a man ſhould argue, <hi>B.</hi> is a Diſ<g ref="char:EOLhyphen"/>ciple and a Believer, and he believes not that the Holy Ghoſt is God; therefore it is not God.</p>
+            <p>But (ſaith he) <hi>Many now tell us, that without the knowledge of this point (of which they were ignoraat) we cannot be ſaved. Anſw.</hi> 1. They were not ignorant of it, as hath been proved. 2 But the times or ſtates of the Churches wherein men live, do much vary the caſe: according as the means of knowledge are more or leſſe, an errour may be damnable or not. To inſtance, in the
+<pb n="66" facs="tcp:33777:48"/>
+firſt infancy of the Church, Circumciſion was an errour winked at, <hi>Act.</hi> 15. and 16. 3. but afterwards it proved no leſſe then dam<g ref="char:EOLhyphen"/>nable, <hi>Gal. 5. 2. If you be circumciſed, Chriſt ſhall profit you nothing:</hi> So the Apo<g ref="char:EOLhyphen"/>ſtles word once ignorant of, and did not be<g ref="char:EOLhyphen"/>lieve the Death and Reſurrection of Chriſt<g ref="char:punc">▪</g> but if any man now doubt of them, we may upon much better grounds doubt of his ſalvation: So though God might wink at this errour in former times, let not <hi>B.</hi> now think that God will hold him guiltleſſe in times of ſo much light and meanes; let him look to it, God is very jealous of his honour, and particularly of the honour of the Holy Ghoſt, <hi>Matth.</hi> 12. 32.</p>
+            <p>
+               <hi>Object.</hi> 11. Arg. 11. <hi>The Spirit of God hath an underſtanding diſtinct from the un<g ref="char:EOLhyphen"/>derſtanding of God, for he heareth from God,</hi> Ioh<g ref="char:punc">▪</g> 16. 13, 14, 15.</p>
+            <p>
+               <hi>Anſw.</hi> This is the ſelf-ſame Argument with the third and fourth, as you ſee, and therefore I pray you go back for an anſwer. Onely one thing he addes, <hi>That the Spirit is ſaid to ſearch the things of God,</hi> 1 Cor. 2. 10. <hi>But to ſearch the depths of one, neceſſarily ſuppoſeth one underſtanding in him that ſear<g ref="char:EOLhyphen"/>cheth, and another in him whoſe depths are ſearched;</hi> then which nothing is more falſe <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d fooliſh: For, 1 By ſearching there,
+<pb n="67" facs="tcp:33777:48"/>
+is meant nothing but knowing, as appears from <hi>ver.</hi> 11. where inſtead of <hi>ſearching</hi> is put <hi>knowing, The things of God knoweth the Spirit of God:</hi> and again, God is ſaid to ſearch the heart, <hi>Rom.</hi> 8. 29. that is, to know it. 2 Doth not God know himſelf? nay, cannot we ſearch our ſelves? cannot our underſtanding reflect upon it ſelf, and ſearch its own nature? are not we com<g ref="char:EOLhyphen"/>manded to ſearch, try, and examine our ſelves?</p>
+            <p>
+               <hi>Object.</hi> 12. His laſt Argument is this, <hi>The Spirit of God willeth conformably to the will of God,</hi> Rom. 8. 27. <hi>He maketh interceſſion for the Saints according to the will of God.</hi> But this Argument is already anſwered un<g ref="char:EOLhyphen"/>der the ninth Objection; the ſum of what is there at large proved, is this, That the Spirit is ſaid to pray, intercede, will, be<g ref="char:EOLhyphen"/>cauſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he maketh us ſo to do, becauſe he maketh us to pray, according to the will of God. And thus I have detected all the fal<g ref="char:EOLhyphen"/>lacies wherewith the Adverſary laboured to oppoſe the Deity of the Holy Ghoſt: and ſo notwithſtanding all that he hath ſaid, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> remains a ſure truth, and will do ſo to eter<g ref="char:EOLhyphen"/>nity, that the Holy Ghoſt is God. And therefore <hi>Trinuni Deo, Patri, Filio, Spiri<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sancto ſit Laus, Honor, &amp; Gloria,</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33777:49" rendition="simple:additions"/>
+            <pb facs="tcp:33777:49" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
